@@ -1,0 +1,74 @@
+match_id,stage_name,home_team_name,away_team_name,player_name,team_name,position,market_value_M
+1,Group Stage,Mexico,South Africa,Julián Andrés Quinones,Mexico,FWD,14.0
+2,Group Stage,South Korea,Czechia,Inbeom Hwang,South Korea,MID,7.0
+3,Group Stage,Canada,Bosnia and Herzegovina,Ismaël Kenneth Jordan Kone,Canada,MID,25.0
+4,Group Stage,USA,Paraguay,Folarin Jolaoluwa Balogun,USA,FWD,40.0
+5,Group Stage,Qatar,Switzerland,Ibrahim Mahmoud Abunada,Qatar,GK,0.4
+6,Group Stage,Brazil,Morocco,José Vinicius,Brazil,FWD,140.0
+7,Group Stage,Haiti,Scotland,Mc,Scotland,MID,4.0
+8,Group Stage,Australia,Türkiye,Nestory Irankunda,Australia,FWD,8.0
+9,Group Stage,Germany,Curaçao,Kai Lukas Havertz,Germany,FWD,55.0
+10,Group Stage,Netherlands,Japan,Virgil Van Dijk,Netherlands,DEF,15.0
+11,Group Stage,Côte d'Ivoire,Ecuador,Yan Diomande,Côte d'Ivoire,FWD,90.0
+12,Group Stage,Sweden,Tunisia,Alexander Isak,Sweden,FWD,85.0
+13,Group Stage,Spain,Cabo Verde,José Vozinha,Cabo Verde,GK,0.05
+14,Group Stage,Belgium,Egypt,Ashour Metwaly Emam,Egypt,MID,2.0
+15,Group Stage,Saudi Arabia,Uruguay,Khalil Mohammed Alowais,Saudi Arabia,GK,0.28
+16,Group Stage,IR Iran,New Zealand,Ramin Rezaeian,IR Iran,DEF,0.25
+17,Group Stage,France,Senegal,Michael Akpovie Olise,France,FWD,150.0
+18,Group Stage,Iraq,Norway,Erling Braut Haaland,Norway,FWD,200.0
+19,Group Stage,Argentina,Algeria,Lionel Andrés Messi,Argentina,FWD,15.0
+20,Group Stage,Austria,Jordan,Iyad Ali Ali Olwan,Jordan,FWD,0.8
+21,Group Stage,Portugal,Congo DR,Pedro Joao Neves,Portugal,MID,140.0
+22,Group Stage,England,Croatia,Harry Edward Kane,England,FWD,60.0
+23,Group Stage,Ghana,Panama,Antoine Serlom Semenyo,Ghana,MID,80.0
+24,Group Stage,Uzbekistan,Colombia,Luis Fernando Diaz,Colombia,FWD,70.0
+25,Group Stage,Mexico,South Korea,Luis Francisco Romo,Mexico,MID,3.0
+26,Group Stage,Czechia,South Africa,Michal Sadilek,Czechia,MID,8.0
+27,Group Stage,Canada,Qatar,Jonathan Christian David,Canada,FWD,30.0
+28,Group Stage,Switzerland,Bosnia and Herzegovina,Johan Kula Manzambi,Switzerland,MID,50.0
+29,Group Stage,Brazil,Haiti,Matheus Matheus Cunha,Brazil,FWD,75.0
+30,Group Stage,Scotland,Morocco,Ismael Saibari,Morocco,MID,40.0
+31,Group Stage,USA,Australia,Folarin Jolaoluwa Balogun,USA,FWD,40.0
+32,Group Stage,Türkiye,Paraguay,Matias Galarza,Paraguay,MID,3.0
+33,Group Stage,Germany,Côte d'Ivoire,Deniz Undav,Germany,FWD,22.0
+34,Group Stage,Ecuador,Curaçao,Eloy Victor Room,Curaçao,GK,0.2
+35,Group Stage,Netherlands,Sweden,Cody Mathès Gakpo,Netherlands,FWD,60.0
+36,Group Stage,Tunisia,Japan,Ayase Ueda,Japan,FWD,17.0
+37,Group Stage,Belgium,IR Iran,Ali Reza Beiranvand,IR Iran,GK,1.2
+38,Group Stage,New Zealand,Egypt,Hamed Mahrous Mohamed Salah,Egypt,FWD,22.0
+39,Group Stage,Spain,Saudi Arabia,Mikel Oyarzabal,Spain,FWD,25.0
+40,Group Stage,Uruguay,Cabo Verde,José Vozinha,Cabo Verde,GK,0.05
+41,Group Stage,France,Iraq,Kylian Mbappe,France,FWD,180.0
+42,Group Stage,Norway,Senegal,Erling Braut Haaland,Norway,FWD,200.0
+43,Group Stage,Argentina,Austria,Lionel Andrés Messi,Argentina,FWD,15.0
+44,Group Stage,Jordan,Algeria,Ibrahim Maza,Algeria,MID,45.0
+45,Group Stage,Portugal,Uzbekistan,Ronaldo Cristiano Ronaldo,Portugal,FWD,10.0
+46,Group Stage,Colombia,Congo DR,Daniel Munoz,Colombia,DEF,22.0
+47,Group Stage,England,Ghana,Nico Oreilly,England,DEF,70.0
+48,Group Stage,Panama,Croatia,Ante Budimir,Croatia,FWD,2.8
+49,Group Stage,Czechia,Mexico,Mateo Chavez,Mexico,DEF,4.0
+50,Group Stage,South Africa,South Korea,Thapelo Maseko,South Africa,FWD,1.2
+51,Group Stage,Switzerland,Canada,Johan Kula Manzambi,Switzerland,MID,50.0
+52,Group Stage,Bosnia and Herzegovina,Qatar,Kerim Alajbegovic,Bosnia and Herzegovina,FWD,22.0
+53,Group Stage,Scotland,Brazil,José Vinicius,Brazil,FWD,140.0
+54,Group Stage,Morocco,Haiti,Achraf Hakimi,Morocco,DEF,80.0
+55,Group Stage,Türkiye,USA,Arda Guler,Türkiye,FWD,90.0
+56,Group Stage,Paraguay,Australia,Roberto Junior Fernandez,Paraguay,GK,0.1
+57,Group Stage,Ecuador,Germany,Nilson David Angulo,Ecuador,FWD,17.0
+58,Group Stage,Curaçao,Côte d'Ivoire,Nicolas Pepe,Côte d'Ivoire,FWD,6.0
+59,Group Stage,Tunisia,Netherlands,Brian Ebenezer Adjei Brobbey,Netherlands,FWD,30.0
+60,Group Stage,Japan,Sweden,Daizen Maeda,Japan,MID,13.0
+61,Group Stage,New Zealand,Belgium,Leandro Trossard,Belgium,FWD,18.0
+62,Group Stage,Egypt,IR Iran,Ramin Rezaeian,IR Iran,DEF,0.25
+63,Group Stage,Uruguay,Spain,Alejandro Baena,Spain,MID,40.0
+64,Group Stage,Cabo Verde,Saudi Arabia,José Vozinha,Cabo Verde,GK,0.05
+65,Group Stage,Norway,France,Masour Ousmane Dembele,France,FWD,100.0
+66,Group Stage,Senegal,Iraq,Iliman Cheikh Baroy Ndiaye,Senegal,FWD,55.0
+67,Group Stage,Jordan,Argentina,Lionel Andrés Messi,Argentina,FWD,15.0
+68,Group Stage,Algeria,Austria,Riyad Karim Mahrez,Algeria,FWD,5.0
+69,Group Stage,Colombia,Portugal,Diogo Diogo Costa,Portugal,GK,40.0
+70,Group Stage,Congo DR,Uzbekistan,Yoane Wissa,Congo DR,FWD,25.0
+71,Group Stage,Panama,England,Jude Victor William Bellingham,England,MID,130.0
+72,Group Stage,Croatia,Ghana,Petar Sucic,Croatia,MID,40.0
+73,Round of 32,South Africa,Canada,Stephen Eustaquio,Canada,MID,6.0

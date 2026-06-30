@@ -1,0 +1,17 @@
+stadium_name,matches_played,total_goals,total_xg,avg_goals,avg_xg,city,country,capacity,latitude,longitude,elevation_meters
+Vancouver Stadium (BC Place),3,13.0,9.18,4.33,3.06,Vancouver,CAN,54500,49.2768,-123.112,9
+Boston Stadium (Gillette Stadium),6,24.0,16.95,4.0,2.82,Foxborough,USA,65878,42.0909,-71.2643,87
+Kansas City Stadium (Arrowhead Stadium),4,15.0,12.63,3.75,3.16,Kansas City,USA,76416,39.0489,-94.4839,264
+Los Angeles Stadium (SoFi Stadium),6,22.0,16.79,3.67,2.8,Inglewood,USA,70240,33.9535,-118.339,30
+Atlanta Stadium (Mercedes-Benz Stadium),5,18.0,15.77,3.6,3.15,Atlanta,USA,71000,33.7553,-84.4017,318
+New York New Jersey Stadium (MetLife Stadium),7,23.0,18.88,3.29,2.7,East Rutherford,USA,82500,40.8136,-74.0744,7
+Toronto Stadium (BMO Field),4,13.0,9.72,3.25,2.43,Toronto,CAN,30000,43.6328,-79.4186,76
+San Francisco Bay Area Stadium (Levi's Stadium),5,16.0,14.08,3.2,2.82,Santa Clara,USA,68500,37.4033,-121.9698,8
+Dallas Stadium (AT&T Stadium),4,12.0,10.6,3.0,2.65,Arlington,USA,80000,32.7473,-97.0928,184
+Mexico City Stadium (Estadio Azteca),4,11.0,9.96,2.75,2.49,Mexico City,MEX,80824,19.3031,-99.1506,2200
+Seattle Stadium (Lumen Field),5,12.0,12.8,2.4,2.56,Seattle,USA,69000,47.5952,-122.3316,3
+Miami Stadium (Hard Rock Stadium),5,11.0,14.24,2.2,2.85,Miami Gardens,USA,64767,25.9581,-80.2389,2
+Philadelphia Stadium (Lincoln Financial Field),5,11.0,10.39,2.2,2.08,Philadelphia,USA,69796,39.9008,-75.1675,3
+Guadalajara Stadium (Estadio Akron),2,4.0,5.22,2.0,2.61,Zapopan,MEX,48070,20.6811,-103.4628,1566
+Monterrey Stadium (Estadio BBVA),4,7.0,7.41,1.75,1.85,Guadalupe,MEX,53500,25.669,-100.2444,538
+Houston Stadium (NRG Stadium),4,4.0,8.17,1.0,2.04,Houston,USA,72220,29.6847,-95.4082,14

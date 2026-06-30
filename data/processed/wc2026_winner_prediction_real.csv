@@ -1,0 +1,49 @@
+team,group,confederation,fifa_rank,elo_strength,manager,fifa_code,win_prob,finalist_prob,semifinal_prob,quarterfinal_prob,simulations
+Argentina,J,CONMEBOL,1,2150,Lionel Scaloni,ARG,22.62,0.0,32.86,45.32,20000
+Spain,H,UEFA,2,2120,Luis de la Fuente,ESP,16.95,0.0,26.88,39.99,20000
+France,I,UEFA,3,2100,Didier Deschamps,FRA,13.52,0.0,22.73,35.66,20000
+England,L,UEFA,4,2050,Thomas Tuchel,ENG,8.04,0.0,16.05,27.79,20000
+Brazil,C,CONMEBOL,6,2030,Carlo Ancelotti,BRA,7.07,0.0,14.04,25.48,20000
+Portugal,K,UEFA,5,2010,Roberto Martínez,POR,5.14,0.0,11.26,21.73,20000
+Colombia,K,CONMEBOL,13,1990,Néstor Lorenzo,COL,4.95,0.0,11.09,22.39,20000
+Netherlands,F,UEFA,8,1980,Ronald Koeman,NED,3.48,0.0,8.09,17.23,20000
+Uruguay,H,CONMEBOL,16,1960,Marcelo Bielsa,URU,3.31,0.0,8.11,18.62,20000
+Germany,E,UEFA,10,1970,Julian Nagelsmann,GER,3.15,0.0,7.71,16.91,20000
+Belgium,G,UEFA,9,1950,Domenico Tedesco,BEL,2.33,0.0,6.23,14.54,20000
+Croatia,L,UEFA,11,1940,Zlatko Dalić,CRO,2.08,0.0,5.62,13.18,20000
+Morocco,C,CAF,7,1920,Walid Regragui,MAR,1.53,0.0,4.64,11.86,20000
+Japan,F,AFC,18,1880,Hajime Moriyasu,JPN,0.83,0.0,2.87,8.02,20000
+Ecuador,E,CONMEBOL,23,1870,Sebastián Beccacece,ECU,0.83,0.0,3.01,9.03,20000
+Switzerland,B,UEFA,19,1860,Murat Yakin,SUI,0.73,0.0,2.69,8.41,20000
+USA,D,CONCACAF,17,1850,Mauricio Pochettino,USA,0.5,0.0,1.82,5.77,20000
+Senegal,I,CAF,15,1840,Pape Thiaw,SEN,0.4,0.0,1.46,5.23,20000
+Austria,J,UEFA,24,1830,Ralf Rangnick,AUT,0.37,0.0,1.58,5.19,20000
+IR Iran,G,AFC,20,1820,Amir Ghalenoei,IRN,0.33,0.0,1.49,5.31,20000
+Mexico,A,CONCACAF,14,1810,Javier Aguirre,MEX,0.27,0.0,1.19,4.21,20000
+South Korea,A,AFC,22,1800,Hong Myung-bo,KOR,0.27,0.0,1.22,4.41,20000
+Sweden,F,UEFA,25,1815,Jon Dahl Tomasson,SWE,0.22,0.0,1.02,4.41,20000
+Australia,D,AFC,27,1790,Tony Popovic,AUS,0.2,0.0,0.81,3.31,20000
+Canada,B,CONCACAF,33,1795,Jesse Marsch,CAN,0.18,0.0,0.83,3.43,20000
+Norway,I,UEFA,44,1775,Ståle Solbakken,NOR,0.14,0.0,0.71,3.1,20000
+Türkiye,D,UEFA,26,1780,Vincenzo Montella,TUR,0.14,0.0,0.84,3.28,20000
+Côte d'Ivoire,E,CAF,38,1750,Emerse Faé,CIV,0.1,0.0,0.53,2.46,20000
+Algeria,J,CAF,28,1760,Vladimir Petković,ALG,0.08,0.0,0.43,2.02,20000
+Egypt,G,CAF,36,1730,Hossam Hassan,EGY,0.06,0.0,0.36,1.72,20000
+Czechia,A,UEFA,40,1740,Miroslav Koubek,CZE,0.06,0.0,0.48,2.02,20000
+Scotland,C,UEFA,39,1720,Steve Clarke,SCO,0.05,0.0,0.3,1.54,20000
+Paraguay,D,CONMEBOL,54,1725,Gustavo Alfaro,PAR,0.04,0.0,0.25,1.26,20000
+Ghana,L,CAF,49,1690,Carlos Queiroz,GHA,0.03,0.0,0.14,0.77,20000
+Tunisia,F,CAF,45,1710,Hervé Renard,TUN,0.01,0.0,0.21,1.21,20000
+Qatar,B,AFC,56,1600,Julen Lopetegui,QAT,0.01,0.0,0.03,0.18,20000
+Panama,L,CONCACAF,34,1680,Thomas Christiansen,PAN,0.01,0.0,0.1,0.71,20000
+Congo DR,K,CAF,61,1670,Sébastien Desabre,COD,0.01,0.0,0.07,0.36,20000
+Saudi Arabia,H,AFC,58,1660,Georgios Donis,KSA,0.01,0.0,0.04,0.4,20000
+South Africa,A,CAF,60,1620,Hugo Broos,RSA,0.0,0.0,0.02,0.16,20000
+Haiti,C,CONCACAF,83,1530,Sébastien Migné,HAI,0.0,0.0,0.01,0.04,20000
+Bosnia and Herzegovina,B,UEFA,64,1645,Sergej Barbarez,BIH,0.0,0.0,0.04,0.32,20000
+Curaçao,E,CONCACAF,82,1520,Dick Advocaat,CUW,0.0,0.0,0.01,0.01,20000
+New Zealand,G,OFC,85,1510,Darren Bazeley,NZL,0.0,0.0,0.01,0.06,20000
+Cabo Verde,H,CAF,67,1640,Bubista,CPV,0.0,0.0,0.03,0.2,20000
+Iraq,I,AFC,55,1630,Graham Arnold,IRQ,0.0,0.0,0.03,0.22,20000
+Jordan,J,AFC,63,1610,Jamal Sellami,JOR,0.0,0.0,0.01,0.14,20000
+Uzbekistan,K,AFC,50,1650,Fabio Cannavaro,UZB,0.0,0.0,0.05,0.36,20000

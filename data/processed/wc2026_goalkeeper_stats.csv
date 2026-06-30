@@ -1,0 +1,49 @@
+team_id,team_name,total_saves,matches,avg_saves_pg,total_shots_faced,goalkeeper,goals_conceded,save_pct
+18,Curaçao,20,2,10.0,2,Eloy Victor Room,9.0,69.0
+14,Paraguay,19,3,6.33,5,Roberto Junior Fernandez,4.0,82.6
+20,Ecuador,18,2,9.0,16,Hernán Ismael Galindez,2.0,90.0
+31,Saudi Arabia,18,3,6.0,7,Khalil Mohammed Alowais,5.0,78.3
+2,South Africa,17,4,4.25,11,Ronwen Hayden Williams,4.0,81.0
+35,Iraq,16,3,5.33,2,Basil Fadhil Ahmed,12.0,57.1
+7,Qatar,16,3,5.33,6,Ibrahim Mahmoud Abunada,10.0,61.5
+30,Cabo Verde,15,3,5.0,8,José Vozinha,2.0,88.2
+27,IR Iran,13,2,6.5,6,Ali Reza Beiranvand,3.0,81.2
+41,Portugal,12,3,4.0,11,Diogo Diogo Costa,1.0,92.3
+6,Bosnia and Herzegovina,12,3,4.0,11,Nikola Vasilj,6.0,66.7
+28,New Zealand,11,2,5.5,11,Maxime Teremoana Crocombe,10.0,52.4
+40,Jordan,11,3,3.67,6,Mo'ien Hasan Yazeed Abulaila,8.0,57.9
+43,Uzbekistan,10,3,3.33,4,Abduvakhid Nematov,11.0,47.6
+47,Ghana,10,3,3.33,5,Benjamin Asare,2.0,83.3
+8,Switzerland,9,3,3.0,18,Gregor Kobel,3.0,75.0
+4,Czechia,9,3,3.0,7,Mat ě j Kovar,6.0,60.0
+11,Haiti,9,2,4.5,1,Johny Placide,8.0,52.9
+19,Côte d'Ivoire,9,2,4.5,7,Yahia Fofana,2.0,81.8
+3,South Korea,8,3,2.67,10,Seunggyu Kim,3.0,72.7
+48,Panama,8,3,2.67,7,Luis Ricardo Mejia,4.0,66.7
+34,Senegal,8,3,2.67,18,Edouard Osoque Mendy,6.0,57.1
+45,England,8,3,2.67,20,Jordan Lee Pickford,2.0,80.0
+23,Sweden,8,2,4.0,15,Jacob Mikael Widell Zetterstrom,7.0,53.3
+36,Norway,7,3,2.33,16,Ørjan Haskjold Nyland,7.0,50.0
+42,Congo DR,7,3,2.33,8,Lionel Nzau Mpasi,3.0,70.0
+46,Croatia,7,3,2.33,13,Dominik Livakovic,5.0,58.3
+29,Spain,7,2,3.5,16,Unai Simon,0.0,100.0
+24,Tunisia,7,2,3.5,3,Aymen Dahmen,12.0,36.8
+15,Australia,7,3,2.33,11,Mathew David Ryan,2.0,77.8
+5,Canada,6,4,1.5,29,Maxime Crepeau,3.0,66.7
+10,Morocco,6,2,3.0,7,Yassine Bounou,3.0,66.7
+39,Austria,6,3,2.0,8,Alexander Schlager,6.0,50.0
+44,Colombia,6,3,2.0,14,Camilo Andres Vargas,1.0,85.7
+33,France,6,3,2.0,22,Mike Peterson Maignan,2.0,75.0
+38,Algeria,5,3,1.67,12,Melvin Feycal Mastil,7.0,41.7
+21,Netherlands,5,2,2.5,12,Bart Verbruggen,4.0,55.6
+1,Mexico,4,3,1.33,13,Francisco Guillermo Ochoa,0.0,100.0
+12,Scotland,4,2,2.0,3,Angus Fraser James Gunn,4.0,50.0
+16,Türkiye,4,2,2.0,12,Fehmi Mert Gunok,5.0,44.4
+26,Egypt,4,2,2.0,10,Elsayed Mohamed Mohamed Elshenawy,3.0,57.1
+32,Uruguay,4,2,2.0,17,Sergio Ramón Rochet,4.0,50.0
+22,Japan,4,2,2.0,10,Zion Suzuki,3.0,57.1
+25,Belgium,4,2,2.0,11,Thibaut Nicolas Courtois,2.0,66.7
+17,Germany,3,2,1.5,20,Manuel Peter Neuer,4.0,42.9
+9,Brazil,3,2,1.5,11,Ramsés Alisson,1.0,75.0
+13,USA,2,2,1.0,8,Matthew Charles Turner,4.0,33.3
+37,Argentina,2,3,0.67,15,Damián Emiliano Martinez,1.0,66.7

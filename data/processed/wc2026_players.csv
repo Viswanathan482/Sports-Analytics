@@ -1,0 +1,469 @@
+player_name,full_name,national_team,position,pos_group,age_2026,overall_rating,national_rating,finishing,positioning,sprint_speed,dribbling,vision,age_factor,goal_prob_per_game,expected_games,expected_goals,expected_assists,expected_g_plus_a,confederation,group
+K. Mbappé,Kylian Mbappé,France,"RW,ST,RM",Attacker,27,88,84.0,88,88,96,90,82,1.0,0.5227,6.8,3.55,1.21,4.77,UEFA,B
+O. Dembélé,Ousmane Dembélé,France,"RW,LW",Attacker,28,84,84.0,78,79,93,91,84,1.0,0.4906,6.8,3.34,1.2,4.54,UEFA,B
+L. Sané,Leroy Sané,Germany,LW,Attacker,30,86,85.0,81,84,96,88,82,0.95,0.4801,6.8,3.26,1.17,4.43,UEFA,F
+L. Martínez,Lautaro Martínez,Argentina,ST,Attacker,28,79,82.0,82,79,83,78,72,1.0,0.4763,6.8,3.24,0.98,4.21,CONMEBOL,D
+T. Werner,Timo Werner,Germany,ST,Attacker,30,84,85.0,87,85,93,83,61,0.95,0.4771,6.8,3.24,1.0,4.24,UEFA,F
+Marco Asensio,Marco Asensio Willemsen,Spain,"LW,RW",Attacker,30,84,85.0,80,82,82,85,82,0.95,0.4729,6.8,3.22,1.23,4.45,UEFA,C
+Neymar Jr,Neymar da Silva Santos Junior,Brazil,"LW,CAM",Attacker,34,92,81.0,87,89,90,96,88,0.85,0.4501,6.8,3.06,1.29,4.35,CONMEBOL,A
+A. Griezmann,Antoine Griezmann,France,"CF,ST",Attacker,34,89,84.0,89,91,85,87,85,0.85,0.448,6.8,3.05,1.25,4.3,UEFA,B
+G. Simeone,Giovanni Pablo Simeone,Argentina,ST,Attacker,30,78,82.0,79,80,78,76,60,0.95,0.4426,6.8,3.01,0.94,3.95,CONMEBOL,D
+M. Rashford,Marcus Rashford,England,"ST,LW,RW",Attacker,28,83,82.0,79,84,93,84,76,1.0,0.497,6.0,2.98,0.98,3.97,UEFA,E
+M. Icardi,Mauro Emanuel Icardi Rivero,Argentina,ST,Attacker,33,87,82.0,91,92,78,77,64,0.85,0.4359,6.8,2.96,0.99,3.95,CONMEBOL,D
+A. Januzaj,Adnan Januzaj,Belgium,"RW,RM",Attacker,31,79,85.0,71,76,76,85,80,0.95,0.4326,6.8,2.94,1.18,4.12,UEFA,G
+R. De Paul,Rodrigo Javier De Paul,Argentina,"LW,RW,CF",Attacker,31,77,82.0,68,75,74,83,75,0.95,0.4268,6.8,2.9,1.14,4.04,CONMEBOL,D
+R. Lukaku,Romelu Lukaku,Belgium,ST,Attacker,32,86,85.0,86,87,90,78,73,0.85,0.4226,6.8,2.87,1.11,3.99,UEFA,G
+R. Sterling,Raheem Sterling,England,"RW,LW",Attacker,31,87,82.0,79,89,92,88,79,0.95,0.4745,6.0,2.85,1.05,3.89,UEFA,E
+Louri Beretta,Lourival Adnan Beretta Barbosa,Brazil,"ST,CF",Attacker,34,83,81.0,85,83,83,75,58,0.85,0.416,6.8,2.83,0.93,3.76,CONMEBOL,A
+S. Bergwijn,Steven Bergwijn,Netherlands,"LW,RW",Attacker,28,80,81.0,74,77,89,87,75,1.0,0.4699,6.0,2.82,0.95,3.77,UEFA,D
+M. Batshuayi,Michy Batshuayi Tunga,Belgium,ST,Attacker,32,80,85.0,82,84,76,78,62,0.85,0.4113,6.8,2.8,0.88,3.68,UEFA,G
+T. Hazard,Thorgan Hazard,Belgium,"RW,LW,CF",Attacker,32,83,85.0,76,84,77,87,83,0.85,0.4117,6.8,2.8,1.21,4.01,UEFA,G
+Morata,Álvaro Borja Morata Martín,Spain,ST,Attacker,33,82,85.0,80,85,86,83,76,0.85,0.4121,6.8,2.8,1.08,3.88,UEFA,C
+Ronaldo Cabrais,Ronaldo Jailson Cabrais Petri,Brazil,"RW,CAM",Attacker,34,83,81.0,74,82,87,85,83,0.85,0.4083,6.8,2.78,1.24,4.02,CONMEBOL,A
+F. Chiesa,Federico Chiesa,Italy,"RW,CF",Attacker,28,79,83.0,70,76,85,84,73,1.0,0.4607,6.0,2.76,0.96,3.72,UEFA,H
+André Silva,André Miguel Valente da Silva,Portugal,ST,Attacker,30,80,82.0,83,84,78,77,68,0.95,0.4533,6.0,2.72,0.89,3.61,UEFA,G
+Suso,Jesús Joaquín Fernández Sáez,Spain,"RW,CF",Attacker,32,83,85.0,70,76,77,88,84,0.85,0.3968,6.8,2.7,1.24,3.94,UEFA,C
+H. Kane,Harry Kane,England,ST,Attacker,32,90,82.0,94,93,72,80,81,0.85,0.4501,6.0,2.7,1.08,3.78,UEFA,E
+D. Berardi,Domenico Berardi,Italy,"RW,ST",Attacker,31,78,83.0,74,77,79,80,71,0.95,0.4443,6.0,2.67,0.98,3.64,UEFA,H
+S. Agüero,Sergio Leonel Agüero del Castillo,Argentina,ST,Attacker,37,89,82.0,93,92,80,89,83,0.72,0.3901,6.8,2.65,1.18,3.84,CONMEBOL,D
+E. Hazard,Eden Hazard,Belgium,"LW,CF",Attacker,35,91,85.0,84,87,88,95,89,0.72,0.3753,6.8,2.55,1.32,3.87,UEFA,G
+L. Insigne,Lorenzo Insigne,Italy,"LW,ST",Attacker,34,88,83.0,77,83,86,90,87,0.85,0.42,6.0,2.52,1.12,3.64,UEFA,H
+M. Depay,Memphis Depay,Netherlands,"CF,LW,CAM",Attacker,32,84,81.0,78,83,87,84,85,0.85,0.4204,6.0,2.52,1.07,3.59,UEFA,D
+J. Lingard,Jesse Lingard,England,"RW,CAM,CF",Attacker,33,82,82.0,79,86,82,84,82,0.85,0.4184,6.0,2.51,1.03,3.54,UEFA,E
+Rodrigo,Rodrigo Moreno Machado,Spain,ST,Attacker,35,83,85.0,78,83,91,82,74,0.72,0.3501,6.8,2.38,1.09,3.47,UEFA,C
+K. Lasagna,Kevin Lasagna,Italy,ST,Attacker,33,77,83.0,78,80,88,76,58,0.85,0.394,6.0,2.36,0.8,3.16,UEFA,H
+C. Immobile,Ciro Immobile,Italy,ST,Attacker,36,87,83.0,90,91,85,83,65,0.72,0.3739,6.0,2.24,0.88,3.12,UEFA,H
+L. Messi,Lionel Andrés Messi Cuccittini,Argentina,"CF,RW,ST",Attacker,38,94,82.0,95,94,86,97,94,0.55,0.3079,6.8,2.09,1.39,3.48,CONMEBOL,D
+K. Dolberg,Kasper Dolberg,Denmark,ST,Attacker,28,76,78.0,76,72,77,75,69,1.0,0.4581,4.5,2.06,0.66,2.72,UEFA,B
+J. Hernández,Juan Camilo Hernández,Colombia,"ST,RM",Attacker,26,75,79.0,78,75,83,73,61,1.0,0.453,4.5,2.04,0.63,2.67,CONMEBOL,F
+M. Gómez,Maximiliano Gómez,Uruguay,ST,Attacker,29,80,81.0,85,83,65,76,60,0.95,0.4534,4.5,2.04,0.65,2.69,CONMEBOL,G
+P. Sisto,Pione Sisto Ifolo Emirmija,Denmark,"LW,LM",Attacker,31,78,78.0,76,73,84,86,75,0.95,0.4441,4.5,2.0,0.72,2.72,UEFA,B
+L. de Jong,Luuk de Jong,Netherlands,ST,Attacker,35,80,81.0,79,84,57,66,69,0.72,0.3315,6.0,1.99,0.92,2.91,UEFA,D
+D. Welbeck,Daniel Nii Tackie Mensah Welbeck,England,"LW,ST,LM",Attacker,35,77,82.0,75,79,83,78,71,0.72,0.3306,6.0,1.98,0.94,2.93,UEFA,E
+Y. Poulsen,Yussuf Yurary Poulsen,Denmark,ST,Attacker,31,80,78.0,78,82,79,75,65,0.95,0.4368,4.5,1.97,0.65,2.62,UEFA,B
+D. Mertens,Dries Mertens,Belgium,"CF,ST",Attacker,38,87,85.0,86,87,85,91,83,0.55,0.2848,6.8,1.94,1.22,3.16,UEFA,G
+Iago Aspas,Iago Aspas Juncal,Spain,"ST,RW",Attacker,38,84,85.0,88,86,78,86,75,0.55,0.2808,6.8,1.91,1.12,3.03,UEFA,C
+L. Muriel,Luis Fernando Muriel Fruto,Colombia,ST,Attacker,34,80,79.0,78,81,89,85,73,0.85,0.4072,4.5,1.83,0.7,2.54,CONMEBOL,F
+X. Shaqiri,Xherdan Shaqiri,Switzerland,"RW,RM,CAM",Attacker,34,82,77.0,71,74,77,86,81,0.85,0.3988,4.5,1.79,0.81,2.6,UEFA,A
+Luimo Boas Santos,Luan Vágner Boas Macedo,Brazil,ST,Attacker,38,79,81.0,79,82,82,82,75,0.55,0.2636,6.8,1.79,1.07,2.86,CONMEBOL,A
+E. Ünal,Enes Ünal,Turkey,ST,Attacker,28,77,76.0,78,77,74,76,59,1.0,0.4651,3.8,1.77,0.52,2.29,UEFA,K
+C. Ünder,Cengiz Ünder,Turkey,"RW,LW",Attacker,28,78,76.0,71,73,83,83,73,1.0,0.4598,3.8,1.75,0.6,2.35,UEFA,K
+H. Lozano,Hirving Rodrigo Lozano Bahena,Mexico,"RW,LW",Attacker,30,82,77.0,77,78,93,84,75,0.95,0.4514,3.8,1.72,0.62,2.33,CONCACAF,F
+M. Braithwaite,Martin Braithwaite,Denmark,"ST,LW,CAM",Attacker,34,75,78.0,73,75,78,75,68,0.85,0.3785,4.5,1.7,0.68,2.39,UEFA,B
+K. Piątek,Krzysztof Piątek,Poland,ST,Attacker,30,76,77.0,82,83,75,70,52,0.95,0.4428,3.8,1.68,0.45,2.13,UEFA,I
+A. Cornelius,Andreas Evald Cornelius,Denmark,ST,Attacker,32,74,78.0,75,75,67,66,59,0.85,0.3711,4.5,1.67,0.58,2.25,UEFA,B
+A. Milik,Arkadiusz Milik,Poland,ST,Attacker,32,82,77.0,88,83,74,76,60,0.85,0.4201,3.8,1.6,0.53,2.12,UEFA,I
+T. Weah,Timothy Weah,USA,"ST,LW",Attacker,26,69,74.0,70,65,83,69,60,1.0,0.4139,3.8,1.57,0.5,2.08,CONCACAF,E
+C. Tosun,Cenk Tosun,Turkey,ST,Attacker,34,78,76.0,78,79,74,75,61,0.85,0.3956,3.8,1.5,0.54,2.05,UEFA,K
+J. Sargent,Josh Sargent,USA,ST,Attacker,26,65,74.0,68,60,76,66,54,1.0,0.3949,3.8,1.5,0.45,1.95,CONCACAF,E
+N. Jørgensen,Nicolai Jørgensen,Denmark,ST,Attacker,35,77,78.0,79,75,73,74,74,0.72,0.3327,4.5,1.5,0.7,2.2,UEFA,B
+R. Jiménez,Raúl Alonso Jiménez Rodríguez,Mexico,ST,Attacker,34,78,77.0,76,83,76,75,72,0.85,0.3913,3.8,1.49,0.59,2.08,CONCACAF,F
+J. Guidetti,John Guidetti,Sweden,ST,Attacker,33,77,76.0,76,76,65,76,65,0.85,0.3897,3.8,1.48,0.56,2.04,UEFA,L
+H. Çalhanoğlu,Hakan Çalhanoğlu,Turkey,"LW,CAM",Attacker,32,80,76.0,65,75,69,85,80,0.85,0.3867,3.8,1.47,0.68,2.15,UEFA,K
+R. Quaison,Robin Quaison,Sweden,"CF,ST,LW",Attacker,32,75,76.0,74,77,78,80,68,0.85,0.3857,3.8,1.47,0.6,2.06,UEFA,L
+Éder,Éderzito António Macedo Lopes,Portugal,ST,Attacker,38,75,82.0,74,75,78,67,73,0.55,0.2421,6.0,1.45,0.86,2.32,UEFA,G
+R. Lewandowski,Robert Lewandowski,Poland,ST,Attacker,37,90,77.0,91,91,78,85,77,0.72,0.3811,3.8,1.45,0.65,2.09,UEFA,I
+M. Salah,Mohamed  Salah Ghaly,Egypt,"RW,ST",Attacker,33,89,73.0,90,92,91,89,84,0.85,0.4518,3.2,1.45,0.58,2.02,CAF,L
+H. Wilson,Harry Wilson,Wales,"RW,CM",Attacker,28,74,75.0,73,72,77,73,75,1.0,0.4474,3.2,1.43,0.5,1.93,UEFA,E
+G. Zardes,Gyasi Zardes,USA,ST,Attacker,34,73,74.0,73,73,88,70,67,0.85,0.3702,3.8,1.41,0.51,1.92,CONCACAF,E
+A. Buksa,Adam Buksa,Poland,ST,Attacker,29,66,77.0,67,68,71,64,58,0.95,0.371,3.8,1.41,0.47,1.88,UEFA,I
+M. Gavranović,Mario Gavranović,Switzerland,"ST,CAM,CF",Attacker,36,72,77.0,69,81,78,73,65,0.72,0.314,4.5,1.41,0.65,2.07,UEFA,A
+B. Wood,Bobby Shou Wood,USA,ST,Attacker,33,73,74.0,75,67,77,71,38,0.85,0.368,3.8,1.4,0.45,1.85,CONCACAF,E
+A. Peñaranda,Adalberto Peñaranda,Venezuela,"ST,CF",Attacker,28,73,73.0,71,72,78,79,75,1.0,0.4375,3.2,1.4,0.49,1.89,CONMEBOL,J
+C. Larin,Cyle Larin,Canada,ST,Attacker,30,74,70.0,77,73,73,67,52,0.95,0.4203,3.2,1.35,0.35,1.7,CONCACAF,I
+J. David,Jonathan David,Canada,"ST,CF,CAM",Attacker,26,70,70.0,74,64,80,71,62,1.0,0.4226,3.2,1.35,0.43,1.78,CONCACAF,I
+J. Martínez,Josef Alexander Martínez,Venezuela,ST,Attacker,32,82,73.0,86,85,90,76,58,0.85,0.4184,3.2,1.34,0.44,1.78,CONMEBOL,J
+M. Arnautović,Marko Arnautović,Austria,ST,Attacker,36,82,77.0,78,83,83,84,77,0.72,0.3499,3.8,1.33,0.65,1.98,UEFA,J
+I. Kiese Thelin,Isaac Kiese Thelin,Sweden,ST,Attacker,33,72,76.0,71,74,62,65,72,0.85,0.3507,3.8,1.33,0.58,1.91,UEFA,L
+J. Hernández,Javier Hernández Balcázar,Mexico,ST,Attacker,37,79,77.0,84,86,69,73,70,0.72,0.345,3.8,1.31,0.55,1.86,CONCACAF,F
+S. Córdova,Sergio Córdova,Venezuela,ST,Attacker,28,68,73.0,67,65,78,71,61,1.0,0.4058,3.2,1.3,0.42,1.72,CONMEBOL,J
+T. Roberts,Tyler Roberts,Wales,ST,Attacker,27,68,75.0,67,67,84,72,61,1.0,0.4068,3.2,1.3,0.43,1.73,UEFA,E
+K. Toko-Ekambi,Karl Brillant Toko Ekambi,Cameroon,"ST,LW",Attacker,33,79,75.0,80,80,83,80,65,0.85,0.4044,3.2,1.29,0.47,1.76,CAF,C
+J. Savarino,Jefferson Savarino,Venezuela,"RW,CAM",Attacker,29,72,73.0,66,66,84,78,69,0.95,0.4039,3.2,1.29,0.47,1.77,CONMEBOL,J
+D. Machís,Darwin Machís,Venezuela,"LW,RW,CAM",Attacker,33,75,73.0,73,70,88,82,64,0.85,0.3841,3.2,1.23,0.48,1.71,CONMEBOL,J
+C. Wood,Chris Wood,New Zealand,ST,Attacker,34,77,66.0,78,79,75,66,64,0.85,0.3858,3.2,1.23,0.43,1.67,OFC,L
+J. Altidore,Jozy Altidore,USA,ST,Attacker,36,75,74.0,75,74,73,70,69,0.72,0.3176,3.8,1.21,0.54,1.75,CONCACAF,E
+G. Bale,Gareth Frank Bale,Wales,"RW,LW,ST",Attacker,36,88,75.0,86,85,95,87,79,0.72,0.3772,3.2,1.21,0.58,1.78,UEFA,E
+A. Hassan,Ahmed Hassan,Egypt,ST,Attacker,33,74,73.0,75,74,58,70,59,0.85,0.371,3.2,1.19,0.41,1.6,CAF,L
+T. Lawrence,Tom Lawrence,Wales,LW,Attacker,32,72,75.0,69,71,72,76,72,0.85,0.3678,3.2,1.18,0.49,1.67,UEFA,E
+C. Njie,Clinton Mua N'Jie,Cameroon,"ST,LW",Attacker,32,73,75.0,72,72,94,72,60,0.85,0.3685,3.2,1.18,0.44,1.62,CAF,C
+A. Mabil,Awer Mabil,Australia,RW,Attacker,30,70,73.0,59,65,92,75,57,0.95,0.3692,3.2,1.18,0.41,1.59,AFC,H
+A. Sánchez,Alexis Alejandro Sánchez Sánchez,Chile,"LW,LM",Attacker,37,84,77.0,79,83,79,85,81,0.72,0.355,3.2,1.14,0.55,1.69,CONMEBOL,C
+Y. Reyna,José Yordy Reyna Serna,Peru,"ST,CAM",Attacker,32,70,73.0,67,65,88,74,66,0.85,0.3498,3.2,1.12,0.46,1.58,CONMEBOL,B
+M. Rojas,Marco Rojas,New Zealand,"RW,LW",Attacker,34,69,66.0,66,60,89,72,66,0.85,0.3445,3.2,1.1,0.46,1.56,OFC,L
+R. Ruidíaz,Raúl Mario Ruidíaz Misitich,Peru,ST,Attacker,35,76,73.0,80,80,86,76,65,0.72,0.3363,3.2,1.08,0.45,1.53,CONMEBOL,B
+S. Gnabry,Serge Gnabry,Germany,"LM,RM,CAM,LW",Midfielder,30,83,85.0,81,80,90,87,74,0.95,0.1572,6.8,1.07,1.8,2.87,UEFA,F
+T. Akindele,Tesho Akindele,Canada,"ST,LM",Attacker,34,66,70.0,63,62,87,64,58,0.85,0.3291,3.2,1.05,0.39,1.44,CONCACAF,I
+E. Choupo-Moting,Jean-Eric Maxim Choupo-Moting,Cameroon,"ST,LW",Attacker,36,77,75.0,75,77,78,83,70,0.72,0.3291,3.2,1.05,0.51,1.56,CAF,C
+Saúl,Saúl Ñíguez Esclápez,Spain,"CM,LM,RM",Midfielder,31,85,85.0,78,82,73,80,82,0.95,0.1523,6.8,1.04,1.97,3.01,UEFA,C
+J. Brandt,Julian Brandt,Germany,"LM,RM,CAM",Midfielder,29,81,85.0,77,78,84,87,82,0.95,0.1511,6.8,1.03,1.89,2.92,UEFA,F
+S. Rondón,José Salomón Rondón Giménez,Venezuela,ST,Attacker,36,77,73.0,75,77,68,70,53,0.72,0.3232,3.2,1.03,0.4,1.43,CONMEBOL,J
+Y. Tielemans,Youri Tielemans,Belgium,"CM,CDM",Midfielder,28,78,85.0,73,74,53,76,81,1.0,0.1512,6.8,1.03,1.88,2.91,UEFA,G
+S. Vokes,Sam Vokes,Wales,ST,Attacker,36,75,75.0,77,78,55,65,70,0.72,0.3198,3.2,1.02,0.47,1.49,UEFA,E
+T. Lemar,Thomas Lemar,France,"LM,CAM,RM",Midfielder,30,83,84.0,75,78,84,85,84,0.95,0.1505,6.8,1.02,1.96,2.98,UEFA,B
+G. Lo Celso,Giovani Lo Celso,Argentina,"CM,CAM,CDM",Midfielder,29,82,82.0,77,79,79,84,84,0.95,0.1505,6.8,1.02,1.98,3.01,CONMEBOL,D
+J. Kodjia,Jonathan Kodjia,Ivory Coast,"ST,LW",Attacker,36,74,75.0,73,75,84,77,58,0.72,0.3166,3.2,1.01,0.42,1.43,CAF,J
+J. Hoilett,David Junior Hoilett,Canada,"LW,LM,RM",Attacker,35,74,70.0,68,71,87,76,73,0.72,0.3149,3.2,1.01,0.49,1.5,CONCACAF,I
+L. Goretzka,Leon Goretzka,Germany,"CM,CAM,CDM",Midfielder,31,83,85.0,73,79,79,81,82,0.95,0.148,6.8,1.01,1.95,2.96,UEFA,F
+K. De Bruyne,Kevin De Bruyne,Belgium,"CAM,CM",Midfielder,34,91,85.0,82,87,76,86,94,0.85,0.146,6.8,0.99,2.19,3.18,UEFA,G
+P. Dybala,Paulo Bruno Exequiel Dybala,Argentina,"CAM,RW",Midfielder,32,89,82.0,84,84,83,92,87,0.85,0.1456,6.8,0.99,2.03,3.02,CONMEBOL,D
+F. Thauvin,Florian Thauvin,France,"RM,RW",Midfielder,33,84,84.0,81,83,80,85,80,0.85,0.141,6.8,0.96,1.92,2.88,UEFA,B
+D. Alli,Bamidele Alli,England,CAM,Midfielder,29,85,82.0,83,88,76,83,85,0.95,0.1574,6.0,0.94,1.76,2.7,UEFA,E
+J. Draxler,Julian Draxler,Germany,"CM,LW,LM,CAM",Midfielder,32,83,85.0,78,79,77,88,84,0.85,0.1386,6.8,0.94,1.98,2.93,UEFA,F
+Dani Ceballos,Daniel Ceballos Fernández,Spain,"CM,LM",Midfielder,29,81,85.0,68,76,67,85,83,0.95,0.1388,6.8,0.94,1.97,2.91,UEFA,C
+P. Pogba,Paul Pogba,France,"CM,CAM",Midfielder,32,88,84.0,75,82,79,87,88,0.85,0.1383,6.8,0.94,2.09,3.03,UEFA,B
+T. Ndombele,Tanguy NDombèlé Alvaro,France,"CM,CDM",Midfielder,29,80,84.0,59,70,76,86,79,0.95,0.1363,6.8,0.93,1.93,2.85,UEFA,B
+Isco,Francisco Román Alarcón Suárez,Spain,"CAM,CM,LW",Midfielder,33,87,85.0,79,78,69,94,86,0.85,0.1365,6.8,0.93,2.04,2.97,UEFA,C
+Rodri,Rodrigo Hernández Cascante,Spain,"CM,CDM",Midfielder,29,82,85.0,64,75,66,77,83,0.95,0.1357,6.8,0.92,1.95,2.88,UEFA,C
+L. Dendoncker,Leander Dendoncker,Belgium,"CDM,CB,CM",Midfielder,30,79,85.0,66,71,68,69,76,0.95,0.1353,6.8,0.92,1.82,2.74,UEFA,G
+Koke,Jorge Resurrección Merodio,Spain,"LM,CM,RM",Midfielder,34,85,85.0,72,82,68,80,87,0.85,0.1333,6.8,0.91,2.07,2.97,UEFA,C
+Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,Portugal,"CAM,CM,RW,RM",Midfielder,31,86,82.0,75,83,77,92,86,0.95,0.1518,6.0,0.91,1.78,2.69,UEFA,G
+D. van de Beek,Donny van de Beek,Netherlands,"CAM,CM",Midfielder,28,77,81.0,75,77,65,74,76,1.0,0.151,6.0,0.91,1.6,2.5,UEFA,D
+E. Lamela,Erik Lamela,Argentina,"RM,LM",Midfielder,34,81,82.0,74,79,74,86,83,0.85,0.134,6.8,0.91,1.93,2.85,CONMEBOL,D
+L. Paredes,Leandro Paredes,Argentina,"CM,CDM",Midfielder,31,80,82.0,55,74,69,78,82,0.95,0.1342,6.8,0.91,1.96,2.87,CONMEBOL,D
+Gonçalo Guedes,Gonçalo Manuel Ganchinho Guedes,Portugal,"LM,ST,RM,LW",Midfielder,29,82,82.0,75,77,90,86,77,0.95,0.1501,6.0,0.9,1.6,2.5,UEFA,G
+Thiago,Thiago Alcântara do Nascimento,Spain,"CM,CAM,CDM",Midfielder,34,87,85.0,69,79,69,90,86,0.85,0.1316,6.8,0.9,2.09,2.98,UEFA,C
+Bruma,Armindo Tué Na Bangna,Portugal,"CAM,LM",Midfielder,31,78,82.0,71,73,89,87,70,0.95,0.1465,6.0,0.88,1.5,2.37,UEFA,G
+Renato Sanches,Renato Júnior Luz Sanches,Portugal,CM,Midfielder,28,75,82.0,65,70,77,77,67,1.0,0.1454,6.0,0.87,1.5,2.37,UEFA,G
+H. Vanaken,Hans Vanaken,Belgium,"CAM,CF",Midfielder,33,79,85.0,74,81,55,77,83,0.85,0.1271,6.8,0.86,1.95,2.82,UEFA,G
+M. Reus,Marco Reus,Germany,"CAM,LM,ST",Midfielder,36,88,85.0,87,88,84,87,86,0.72,0.1256,6.8,0.85,2.02,2.87,UEFA,F
+Q. Promes,Quincy Anton Promes,Netherlands,"LM,ST,RM",Midfielder,34,83,81.0,86,79,91,84,81,0.85,0.1418,6.0,0.85,1.65,2.51,UEFA,D
+T. Vilhena,Tonny Emilio Trindade de Vilhena,Netherlands,CM,Midfielder,31,78,81.0,70,70,73,77,73,0.95,0.1402,6.0,0.84,1.59,2.43,UEFA,D
+Rúben Neves,Rúben Diogo da Silva Neves,Portugal,CM,Midfielder,28,81,82.0,64,63,64,74,85,1.0,0.1406,6.0,0.84,1.76,2.6,UEFA,G
+Adilson Edrada,Adilson Patrick Edrada Pereira,Brazil,CAM,Midfielder,34,75,81.0,73,76,82,75,77,0.85,0.1236,6.8,0.84,1.73,2.57,CONMEBOL,A
+J. Maddison,James Maddison,England,"CAM,LM",Midfielder,29,77,82.0,69,69,74,77,81,0.95,0.14,6.0,0.84,1.64,2.48,UEFA,E
+M. Gradel,Max-Alain Gradel,Ivory Coast,"LW,LM",Attacker,38,78,75.0,78,76,84,82,74,0.55,0.2585,3.2,0.83,0.52,1.34,CAF,J
+N. Kanté,N'Golo Kanté,France,"CDM,CM",Midfielder,34,89,84.0,65,71,78,79,80,0.85,0.1215,6.8,0.83,1.95,2.78,UEFA,B
+E. Can,Emre Can,Germany,"CM,CDM",Midfielder,32,80,85.0,60,73,73,76,79,0.85,0.1204,6.8,0.82,1.89,2.71,UEFA,F
+T. Müller,Thomas Müller,Germany,"CAM,RM,RW,CF",Midfielder,36,86,85.0,87,92,75,75,85,0.72,0.1208,6.8,0.82,1.92,2.74,UEFA,F
+L. Pellegrini,Lorenzo Pellegrini,Italy,"CM,CAM,CDM",Midfielder,29,79,83.0,60,74,74,77,79,0.95,0.1345,6.0,0.81,1.69,2.5,UEFA,H
+F. de Jong,Frenkie de Jong,Netherlands,"CM,CDM,CB",Midfielder,28,82,81.0,52,66,78,86,85,1.0,0.1329,6.0,0.8,1.79,2.58,UEFA,D
+Dani Rochelinhas,Danilo Manuel Aldair Rochela,Brazil,"CAM,CM",Midfielder,34,75,81.0,64,77,72,75,76,0.85,0.1173,6.8,0.8,1.77,2.57,CONMEBOL,A
+F. Bernardeschi,Federico Bernardeschi,Italy,"RM,CF",Midfielder,32,82,83.0,70,78,83,86,80,0.85,0.1328,6.0,0.8,1.67,2.47,UEFA,H
+Gervinho,Gervais Lombe Yao Kouassi,Ivory Coast,"LW,RW,ST",Attacker,38,78,75.0,72,78,90,80,74,0.55,0.248,3.2,0.79,0.51,1.31,CAF,J
+N. Barella,Nicolò Barella,Italy,CM,Midfielder,29,78,83.0,63,65,77,80,74,0.95,0.1308,6.0,0.78,1.63,2.41,UEFA,H
+T. Kroos,Toni Kroos,Germany,CM,Midfielder,36,90,85.0,76,78,62,81,90,0.72,0.1148,6.8,0.78,2.15,2.93,UEFA,F
+V. Grifo,Vincenzo Grifo,Italy,LM,Midfielder,32,77,83.0,72,73,66,83,70,0.85,0.1289,6.0,0.77,1.49,2.26,UEFA,H
+I. Gündoğan,İlkay Gündoğan,Germany,"CM,CDM",Midfielder,35,84,85.0,74,79,68,85,86,0.72,0.1113,6.8,0.76,2.05,2.81,UEFA,F
+R. Gagliardini,Roberto Gagliardini,Italy,"CDM,CM",Midfielder,31,78,83.0,54,68,68,75,73,0.95,0.1262,6.0,0.76,1.58,2.33,UEFA,H
+R. Barkley,Ross Barkley,England,"CAM,CM",Midfielder,32,79,82.0,68,71,70,83,79,0.85,0.1261,6.0,0.76,1.68,2.44,UEFA,E
+João Mário,João Mário Naval Costa Eduardo,Portugal,"CAM,LW,CM,RM",Midfielder,33,81,82.0,64,77,69,83,81,0.85,0.1247,6.0,0.75,1.71,2.45,UEFA,G
+H. Winks,Harry Winks,England,"CM,CDM",Midfielder,30,79,82.0,54,64,70,79,80,0.95,0.1226,6.0,0.74,1.69,2.42,UEFA,E
+R. Pereyra,Roberto Pereyra,Argentina,"LM,CAM,CM",Midfielder,35,80,82.0,74,76,76,84,80,0.72,0.1088,6.8,0.74,1.9,2.64,CONMEBOL,D
+N. Chadli,Nacer Chadli,Belgium,"LM,RM,LW",Midfielder,36,77,85.0,73,74,78,80,75,0.72,0.1092,6.8,0.74,1.77,2.51,UEFA,G
+A. Witsel,Axel  Witsel,Belgium,"CDM,CM",Midfielder,37,85,85.0,71,75,73,78,80,0.72,0.1077,6.8,0.73,1.98,2.71,UEFA,G
+D. Pröpper,Davy Pröpper,Netherlands,CM,Midfielder,34,78,81.0,62,68,63,74,82,0.85,0.1193,6.0,0.72,1.64,2.36,UEFA,D
+Sidney Pessinho,Sidney Adrián Pessoa Vidigal,Brazil,"CDM,CM",Midfielder,34,78,81.0,56,52,72,72,72,0.85,0.1063,6.8,0.72,1.76,2.48,CONMEBOL,A
+M. Verratti,Marco Verratti,Italy,"CM,CDM",Midfielder,33,86,83.0,60,71,62,90,87,0.85,0.1159,6.0,0.7,1.86,2.56,UEFA,H
+Jorginho,Luiz Frello Filho Jorge,Italy,CM,Midfielder,34,83,83.0,57,68,61,82,87,0.85,0.1154,6.0,0.69,1.83,2.52,UEFA,H
+M. de Roon,Marten de Roon,Netherlands,"CM,CDM",Midfielder,34,76,81.0,60,69,68,68,72,0.85,0.114,6.0,0.68,1.54,2.22,UEFA,D
+Sergio Busquets,Sergio Busquets i Burgos,Spain,"CDM,CM",Midfielder,37,89,85.0,67,77,52,80,87,0.72,0.1007,6.8,0.68,2.04,2.73,UEFA,C
+G. Wijnaldum,Georginio Wijnaldum,Netherlands,"CM,CDM",Midfielder,35,83,81.0,70,78,76,84,78,0.72,0.1095,6.0,0.66,1.69,2.35,UEFA,D
+V. Fischer,Viktor Fischer,Denmark,"LM,ST",Midfielder,31,77,78.0,75,75,83,79,77,0.95,0.1446,4.5,0.65,1.18,1.83,UEFA,B
+G. Pereiro,Gastón Rodrigo Pereiro López,Uruguay,"CAM,RW",Midfielder,30,77,81.0,73,75,75,79,77,0.95,0.1446,4.5,0.65,1.18,1.84,CONMEBOL,G
+William Carvalho,William Silva de Carvalho,Portugal,"CDM,CM",Midfielder,33,83,82.0,52,64,67,78,81,0.85,0.1082,6.0,0.65,1.71,2.36,UEFA,G
+J. Rodríguez,James David Rodríguez Rubio,Colombia,"CAM,CM,RM",Midfielder,34,87,79.0,83,80,67,85,88,0.85,0.1417,4.5,0.64,1.37,2.01,CONMEBOL,F
+K. Strootman,Kevin Strootman,Netherlands,"CDM,CM",Midfielder,36,82,81.0,68,78,66,75,79,0.72,0.1065,6.0,0.64,1.71,2.35,UEFA,D
+C. Eriksen,Christian  Dannemann Eriksen,Denmark,"CAM,RM,CM",Midfielder,34,88,78.0,81,84,73,84,91,0.85,0.1418,4.5,0.64,1.42,2.05,UEFA,B
+F. Valverde,Federico Valverde,Uruguay,"CM,LM,CAM",Midfielder,27,76,81.0,67,64,70,71,78,1.0,0.1391,4.5,0.63,1.24,1.87,CONMEBOL,G
+E. Dier,Eric Dier,England,"CDM,CB,CM",Midfielder,32,80,82.0,52,53,68,65,67,0.85,0.104,6.0,0.62,1.51,2.14,UEFA,E
+J. Henderson,Jordan Brian Henderson,England,"CDM,CM",Midfielder,35,82,82.0,67,75,66,73,83,0.72,0.1041,6.0,0.62,1.73,2.36,UEFA,E
+D. Payet,Dimitri  Payet,France,"CAM,LM",Midfielder,38,83,84.0,78,79,72,84,87,0.55,0.0881,6.8,0.6,2.01,2.61,UEFA,B
+S. Nzonzi,Steven N'Kemboanza Mike Christopher Nzonzi,France,"CDM,CM",Midfielder,37,81,84.0,50,70,53,70,73,0.72,0.0884,6.8,0.6,1.79,2.39,UEFA,B
+E. Fernandes,Edimilson Fernandes,Switzerland,"CAM,CM,RWB",Midfielder,29,71,77.0,62,65,78,73,69,0.95,0.1278,4.5,0.58,1.12,1.69,UEFA,A
+M. Sabitzer,Marcel Sabitzer,Austria,"CAM,CM",Midfielder,31,81,77.0,79,81,77,79,79,0.95,0.1538,3.8,0.58,1.02,1.6,UEFA,J
+Laure Santeiro,Laureano Thomas Santeiro Marre,Brazil,"CAM,LW",Midfielder,38,81,81.0,72,82,78,82,80,0.55,0.0842,6.8,0.57,1.9,2.47,CONMEBOL,A
+L. Torreira,Lucas Torreira Di Pascua,Uruguay,"CDM,CM",Midfielder,30,82,81.0,50,65,74,78,74,0.95,0.1261,4.5,0.57,1.22,1.79,CONMEBOL,G
+T. Delaney,Thomas Delaney,Denmark,"CDM,CM",Midfielder,34,82,78.0,72,75,78,73,77,0.85,0.1266,4.5,0.57,1.22,1.79,UEFA,B
+R. Bentancur,Rodrigo Bentancur Colmán,Uruguay,CM,Midfielder,28,78,81.0,53,60,75,84,76,1.0,0.1273,4.5,0.57,1.26,1.83,CONMEBOL,G
+C. Pulisic,Christian Pulisic,USA,"RM,LM",Midfielder,27,78,74.0,66,70,88,85,76,1.0,0.1466,3.8,0.56,0.97,1.52,CONCACAF,E
+D. Zakaria,Denis Lemi Zakaria Lako Lado,Switzerland,"CM,CDM",Midfielder,29,77,77.0,60,63,86,74,76,0.95,0.1253,4.5,0.56,1.22,1.79,UEFA,A
+J. Lerma,Jefferson Andrés Lerma Solís,Colombia,"CDM,CM",Midfielder,31,79,79.0,56,58,76,69,68,0.95,0.1245,4.5,0.56,1.14,1.7,CONMEBOL,F
+M. Gregoritsch,Michael Gregoritsch,Austria,"CAM,ST",Midfielder,31,79,77.0,79,78,68,75,74,0.95,0.1481,3.8,0.56,0.99,1.55,UEFA,J
+P. Zieliński,Piotr Zieliński,Poland,"CM,LM",Midfielder,31,82,77.0,68,77,84,85,83,0.95,0.1447,3.8,0.55,1.1,1.65,UEFA,I
+M. Vecino,Matias Vecino,Uruguay,"CDM,CM",Midfielder,34,80,81.0,61,74,69,84,81,0.85,0.1232,4.5,0.55,1.28,1.84,CONMEBOL,G
+R. Freuler,Remo Freuler,Switzerland,CM,Midfielder,33,77,77.0,65,76,69,75,74,0.85,0.1205,4.5,0.54,1.19,1.73,UEFA,A
+B. Matuidi,Blaise Matuidi,France,"CDM,CM",Midfielder,38,85,84.0,64,72,77,78,76,0.55,0.0791,6.8,0.54,1.87,2.41,UEFA,B
+L. Lerager,Lukas Reiff Lerager,Denmark,"CM,CDM",Midfielder,32,75,78.0,66,72,67,68,74,0.85,0.1173,4.5,0.53,1.16,1.68,UEFA,B
+Y. Yazıcı,Yusuf Yazıcı,Turkey,"CAM,CM,RM",Midfielder,29,76,76.0,71,74,75,78,76,0.95,0.1407,3.8,0.53,1.0,1.53,UEFA,K
+Simão Acunha,Simão Alvin Acunha Bardini,Brazil,"CAM,ST,RM",Midfielder,38,77,81.0,66,67,77,76,80,0.55,0.0777,6.8,0.53,1.85,2.38,CONMEBOL,A
+D. Laxalt,Diego Laxalt,Uruguay,LM,Midfielder,33,78,81.0,60,68,90,77,68,0.85,0.1175,4.5,0.53,1.15,1.68,CONMEBOL,G
+Melvin Parrela,Melvin Luan Parrela Porfírio,Brazil,"CDM,CM",Midfielder,38,79,81.0,68,67,78,72,72,0.55,0.0763,6.8,0.52,1.76,2.28,CONMEBOL,A
+E. Gutiérrez,Erick Gutiérrez,Mexico,CM,Midfielder,30,77,77.0,68,67,76,74,76,0.95,0.1359,3.8,0.52,1.02,1.54,CONCACAF,F
+O. Yokuşlu,Okay Yokuşlu,Turkey,"CDM,CB",Midfielder,31,77,76.0,65,68,74,74,71,0.95,0.1341,3.8,0.51,0.97,1.48,UEFA,K
+L. Schaub,Louis Schaub,Austria,"CAM,RM",Midfielder,31,75,77.0,69,67,77,83,74,0.95,0.1341,3.8,0.51,0.97,1.48,UEFA,J
+W. McKennie,Weston McKennie,USA,"CM,CDM,CAM,RM",Midfielder,27,75,74.0,56,73,66,74,74,1.0,0.134,3.8,0.51,0.97,1.48,CONCACAF,E
+G. Xhaka,Granit Xhaka,Switzerland,"CM,CDM",Midfielder,33,81,77.0,49,75,49,70,81,0.85,0.114,4.5,0.51,1.29,1.81,UEFA,A
+I. Kahveci,İrfan Can Kahveci,Turkey,"CAM,CM,LM",Midfielder,30,75,76.0,65,67,78,80,75,0.95,0.1327,3.8,0.5,1.01,1.51,UEFA,K
+P. Arriola,Paul Joseph Arriola Hendricks,USA,"RM,RB",Midfielder,31,72,74.0,66,68,83,74,70,0.95,0.132,3.8,0.5,0.9,1.4,CONCACAF,E
+J. Cuadrado,Juan Cuadrado,Colombia,"RM,RW",Midfielder,37,84,79.0,67,78,93,90,76,0.72,0.1122,4.5,0.5,1.22,1.72,CONMEBOL,F
+E. Forsberg,Emil Forsberg,Sweden,"CAM,LM",Midfielder,34,82,76.0,70,75,70,82,83,0.85,0.1273,3.8,0.48,1.07,1.56,UEFA,L
+P. Frankowski,Przemysław Frankowski,Poland,RM,Midfielder,30,71,77.0,69,65,92,64,57,0.95,0.1266,3.8,0.48,0.84,1.32,UEFA,I
+C. Roldan,Cristian Roldan,USA,"CDM,CM,RM",Midfielder,30,73,74.0,63,67,69,70,68,0.95,0.1269,3.8,0.48,0.93,1.41,CONCACAF,E
+F. Grillitsch,Florian Grillitsch,Austria,"CM,CDM",Midfielder,30,77,77.0,58,70,63,76,78,0.95,0.125,3.8,0.48,1.04,1.52,UEFA,J
+A. Schöpf,Alessandro Schöpf,Austria,"RM,RWB,RW,CM",Midfielder,32,77,77.0,72,74,77,80,65,0.85,0.125,3.8,0.47,0.92,1.39,UEFA,J
+F. Kainz,Florian Kainz,Austria,"LM,CM,CAM",Midfielder,33,75,77.0,71,67,77,80,65,0.85,0.1235,3.8,0.47,0.93,1.39,UEFA,J
+Rosberto Dourado,Rosberto J. Dourado Santos,Brazil,"CDM,CM",Midfielder,38,82,81.0,53,58,81,77,77,0.55,0.0682,6.8,0.46,1.87,2.34,CONMEBOL,A
+B. Özcan,Berkay Özcan,Turkey,"CAM,LM,LW",Midfielder,28,71,76.0,56,62,65,76,75,1.0,0.1221,3.8,0.46,0.97,1.43,UEFA,K
+P. Žulj,Peter Žulj,Austria,"CM,CDM,CAM",Midfielder,32,74,77.0,65,78,66,74,77,0.85,0.1219,3.8,0.46,1.0,1.46,UEFA,J
+S. Gürler,Serdar Gürler,Turkey,"RM,RW,ST,CAM",Midfielder,34,72,76.0,69,72,79,74,70,0.85,0.1216,3.8,0.46,0.91,1.37,UEFA,K
+Trezeguet,Mahmoud Hassan,Egypt,"LM,CAM,RM",Midfielder,31,78,73.0,75,69,85,83,69,0.95,0.143,3.2,0.46,0.82,1.28,CAF,L
+D. Brooks,David Brooks,Wales,"RM,CAM",Midfielder,28,75,75.0,71,71,76,77,76,1.0,0.142,3.2,0.45,0.83,1.28,UEFA,E
+F. Kessié,Franck Yannick Kessié,Ivory Coast,CM,Midfielder,29,79,75.0,64,76,77,78,71,0.95,0.1392,3.2,0.45,0.84,1.28,CAF,J
+A. Davies,Alphonso Davies,Canada,"LM,RM",Midfielder,25,72,70.0,64,65,93,76,65,1.0,0.1381,3.2,0.44,0.71,1.15,CONCACAF,I
+S. Lletget,Sebastian  Lletget,USA,"CAM,CM,LM,RM",Midfielder,33,72,74.0,64,67,76,76,67,0.85,0.1145,3.8,0.44,0.93,1.37,CONCACAF,E
+T. Adams,Tyler Adams,USA,"CDM,RWB",Midfielder,27,72,74.0,46,65,79,69,66,1.0,0.1149,3.8,0.44,0.9,1.33,CONCACAF,E
+M. Rohdén,Marcus Rohdén,Sweden,"CM,RM",Midfielder,34,71,76.0,63,67,71,68,67,0.85,0.1149,3.8,0.44,0.92,1.35,UEFA,L
+D. Kądzior,Damian Kądzior,Poland,RM,Midfielder,33,72,77.0,65,63,78,72,70,0.85,0.1143,3.8,0.43,0.93,1.36,UEFA,I
+B. Woodburn,Ben Woodburn,Wales,"CAM,LW,ST",Midfielder,26,68,75.0,62,67,73,70,58,1.0,0.133,3.2,0.43,0.7,1.12,UEFA,E
+P. Kunde Malong,Pierre Kunde Malong,Cameroon,"CDM,CM",Midfielder,30,74,75.0,64,63,78,70,67,0.95,0.1325,3.2,0.42,0.8,1.23,CAF,C
+T. Rogić,Tom Rogić,Australia,"CAM,CM",Midfielder,33,76,73.0,70,75,66,82,73,0.85,0.1288,3.2,0.41,0.83,1.24,AFC,H
+M. Fabián,Marco Jhonfai Fabián De La Mora,Mexico,"CAM,RM,CF",Midfielder,36,76,77.0,72,73,65,78,74,0.72,0.1076,3.8,0.41,1.0,1.41,CONCACAF,F
+O. Hiljemark,Oscar Hiljemark,Sweden,"CM,CDM",Midfielder,33,74,76.0,48,65,69,72,69,0.85,0.1089,3.8,0.41,0.97,1.39,UEFA,L
+K. Grosicki,Kamil Grosicki,Poland,LM,Midfielder,37,73,77.0,68,72,77,70,73,0.72,0.1038,3.8,0.39,0.94,1.34,UEFA,I
+A. Polo,Andy Polo,Peru,"RM,CM,LM",Midfielder,31,69,73.0,62,63,89,66,61,0.95,0.1225,3.2,0.39,0.7,1.09,CONMEBOL,B
+M. Klich,Mateusz Klich,Poland,CM,Midfielder,35,73,77.0,69,74,59,70,72,0.72,0.1014,3.8,0.39,0.97,1.36,UEFA,I
+R. Thomas,Ryan Thomas,New Zealand,CM,Midfielder,31,75,66.0,52,64,75,78,78,0.95,0.1228,3.2,0.39,0.86,1.25,OFC,L
+J. Durmaz,Jimmy Durmaz,Sweden,"CAM,LW,RW",Midfielder,36,74,76.0,69,66,69,79,72,0.72,0.103,3.8,0.39,0.98,1.37,UEFA,L
+R. Ibarra,Romario Ibarra,Ecuador,"LM,LW",Midfielder,31,69,72.0,64,62,90,67,55,0.95,0.1228,3.2,0.39,0.7,1.1,CONMEBOL,D
+P. Ntep,Paul-Georges Ntep de Madiba,Cameroon,"LM,LW,ST",Midfielder,33,75,75.0,65,71,79,80,66,0.85,0.1212,3.2,0.39,0.78,1.17,CAF,C
+J. Irvine,Jackson Irvine,Australia,"CAM,CM,CDM",Midfielder,33,71,73.0,70,71,68,67,71,0.85,0.1198,3.2,0.38,0.77,1.15,AFC,H
+J. dos Santos,Jonathan dos Santos Ramírez,Mexico,"CM,RM",Midfielder,35,77,77.0,61,73,68,78,75,0.72,0.101,3.8,0.38,1.03,1.41,CONCACAF,F
+D. Moreno,Didier Andrés Moreno Asprilla,Colombia,"CDM,CM",Midfielder,34,70,79.0,30,53,69,57,62,0.85,0.0815,4.5,0.37,1.0,1.37,CONMEBOL,F
+Y. Herrera,Yangel Herrera,Venezuela,"CDM,CM",Midfielder,28,68,73.0,49,60,61,64,62,1.0,0.1142,3.2,0.37,0.72,1.09,CONMEBOL,J
+J. Osorio,Jonathan Osorio,Canada,"CM,CAM,LM",Midfielder,33,71,70.0,67,69,67,73,69,0.85,0.117,3.2,0.37,0.79,1.17,CONCACAF,I
+A. Ekdal,Albin Ekdal,Sweden,"CM,CDM",Midfielder,36,77,76.0,60,70,52,74,75,0.72,0.0967,3.8,0.37,1.02,1.39,UEFA,L
+S. Méndez,Sebastián Méndez,Ecuador,CDM,Midfielder,28,65,72.0,56,52,71,58,55,1.0,0.1154,3.2,0.37,0.69,1.06,CONMEBOL,D
+W. Trapp,Wil Trapp,USA,CDM,Midfielder,33,73,74.0,43,55,63,67,69,0.85,0.0968,3.8,0.37,0.97,1.34,CONCACAF,E
+F. Olinga,Fabrice Olinga Essono,Cameroon,"LM,RM",Midfielder,29,66,75.0,48,58,76,76,57,0.95,0.1148,3.2,0.37,0.68,1.04,CAF,C
+A. Ramsey,Aaron Ramsey,Wales,"CM,CDM,CAM",Midfielder,35,82,75.0,74,84,69,81,79,0.72,0.1123,3.2,0.36,0.91,1.27,UEFA,E
+R. Tapia,Renato Tapia,Peru,"CDM,CM",Midfielder,30,74,73.0,44,60,66,74,66,0.95,0.1138,3.2,0.36,0.79,1.15,CONMEBOL,B
+M. Luongo,Massimo  Luongo,Australia,"CDM,CM",Midfielder,33,73,73.0,63,65,74,71,69,0.85,0.1133,3.2,0.36,0.78,1.14,AFC,H
+T. Touré,Thomas Touré,Ivory Coast,"LM,ST,RM,CAM",Midfielder,32,69,75.0,61,65,75,71,67,0.85,0.1115,3.2,0.36,0.76,1.12,CAF,J
+A. Zambo Anguissa,André Franck Zambo Anguissa,Cameroon,"CDM,CM",Midfielder,30,73,75.0,42,63,69,72,72,0.95,0.1126,3.2,0.36,0.79,1.15,CAF,C
+M. Elneny,Mohamed Elneny,Egypt,"CDM,CM",Midfielder,33,77,73.0,57,63,60,68,70,0.85,0.11,3.2,0.35,0.82,1.18,CAF,L
+V. Angban,Victorien Angban,Ivory Coast,"CM,CDM",Midfielder,29,71,75.0,47,57,65,69,69,0.95,0.1095,3.2,0.35,0.8,1.15,CAF,J
+M. Jensen,Mike Lindemann Jensen,Denmark,CM,Midfielder,38,74,78.0,65,68,73,75,72,0.55,0.0777,4.5,0.35,1.15,1.5,UEFA,B
+M. Kaye,Mark-Anthony Kaye,Canada,"CM,CAM",Midfielder,31,69,70.0,47,57,76,68,65,0.95,0.1093,3.2,0.35,0.76,1.11,CONCACAF,I
+C. Doukouré,Cheick Doukouré,Ivory Coast,"CDM,CM",Midfielder,33,73,75.0,58,64,74,65,63,0.85,0.11,3.2,0.35,0.74,1.09,CAF,J
+J. Fernandes,Júnior Fernandes,Chile,"LM,RM,ST",Midfielder,37,75,77.0,76,76,79,78,69,0.72,0.1095,3.2,0.35,0.78,1.13,CONMEBOL,C
+J. Montero,Jefferson Antonio Montero Vite,Ecuador,"LM,LW",Midfielder,36,75,72.0,66,71,90,81,72,0.72,0.105,3.2,0.34,0.79,1.13,CONMEBOL,D
+M. Leckie,Mathew Leckie,Australia,"RM,LM,RW",Midfielder,35,75,73.0,68,73,89,76,65,0.72,0.1048,3.2,0.34,0.73,1.06,AFC,H
+M. Amini,Mustafa Amini,Australia,CM,Midfielder,32,65,73.0,55,63,61,66,67,0.85,0.1057,3.2,0.34,0.75,1.09,AFC,H
+C. Aránguiz,Charles Mariano Aránguiz Sandoval,Chile,"CM,CDM",Midfielder,36,81,77.0,64,75,60,75,81,0.72,0.105,3.2,0.34,0.92,1.25,CONMEBOL,C
+R. Kruse,Robbie Kruse,Australia,"RM,LM",Midfielder,37,72,73.0,73,76,80,70,68,0.72,0.105,3.2,0.34,0.74,1.08,AFC,H
+P. Hurtado,Christopher Paolo César Hurtado Huertas,Peru,CAM,Midfielder,35,75,73.0,72,72,83,75,74,0.72,0.1062,3.2,0.34,0.82,1.16,CONMEBOL,B
+E. Pulgar,Erick Pulgar,Chile,"CDM,CM",Midfielder,32,77,77.0,44,58,67,74,74,0.85,0.1021,3.2,0.33,0.84,1.16,CONMEBOL,C
+F. Gutiérrez,Felipe Alejandro Gutiérrez Leiva,Chile,"CM,CAM,CDM",Midfielder,35,75,77.0,68,72,66,70,73,0.72,0.1018,3.2,0.33,0.83,1.15,CONMEBOL,C
+S. Arfield,Scott Arfield,Canada,"CM,LM",Midfielder,37,74,70.0,70,74,67,73,74,0.72,0.1027,3.2,0.33,0.83,1.16,CONCACAF,I
+A. King,Andy King,Wales,CM,Midfielder,37,71,75.0,68,72,60,69,69,0.72,0.1001,3.2,0.32,0.78,1.1,UEFA,E
+C. Gruezo,Carlos Armando Gruezo Arboleda,Ecuador,"CDM,CM",Midfielder,30,72,72.0,41,55,60,60,58,0.95,0.1013,3.2,0.32,0.73,1.06,CONMEBOL,D
+R. Teibert,Russell Teibert,Canada,"CDM,CM",Midfielder,33,66,70.0,53,52,64,66,61,0.85,0.0984,3.2,0.32,0.73,1.05,CONCACAF,I
+S. Morsy,Sam Morsy,Egypt,"CDM,CM",Midfielder,34,70,73.0,53,60,67,69,68,0.85,0.1014,3.2,0.32,0.77,1.09,CAF,L
+S. Piette,Samuel Piette,Canada,"CDM,CM",Midfielder,31,71,70.0,43,41,65,60,59,0.95,0.0985,3.2,0.32,0.71,1.03,CONCACAF,I
+J. Allen,Joe Allen,Wales,"CM,CAM",Midfielder,35,76,75.0,68,71,68,74,73,0.72,0.1,3.2,0.32,0.83,1.15,UEFA,E
+J. Moreno,Junior Leonardo Moreno Borrero,Venezuela,CDM,Midfielder,32,68,73.0,51,39,65,60,54,0.85,0.0914,3.2,0.29,0.7,0.99,CONMEBOL,J
+A. Djoum,Gilles Arnaud Sutchuin Djoum,Cameroon,"CM,CAM,LM,CDM",Midfielder,36,67,75.0,60,63,65,66,65,0.72,0.0912,3.2,0.29,0.74,1.04,CAF,C
+A. Vidal,Arturo Vidal,Chile,"CM,CDM",Midfielder,38,85,77.0,75,83,62,77,82,0.55,0.0871,3.2,0.28,0.92,1.2,CONMEBOL,C
+S. Ilsanker,Stefan Ilsanker,Austria,"CDM,CB,RB",Midfielder,36,75,77.0,45,46,77,50,56,0.72,0.0732,3.8,0.28,0.82,1.1,UEFA,J
+M. Bradley,Michael Bradley,USA,"CDM,CM",Midfielder,38,76,74.0,57,63,64,73,73,0.55,0.0722,3.8,0.27,1.01,1.29,CONCACAF,E
+M. Tekdemir,Mahmut Tekdemir,Turkey,"CDM,CB",Midfielder,38,73,76.0,53,53,59,67,59,0.55,0.0664,3.8,0.25,0.89,1.14,UEFA,K
+J. Baumgartlinger,Julian Baumgartlinger,Austria,CDM,Midfielder,38,78,77.0,39,62,71,65,64,0.55,0.0624,3.8,0.24,0.94,1.18,UEFA,J
+J. Kimmich,Joshua Kimmich,Germany,"RB,CM,CDM",Defender,31,86,85.0,66,80,68,80,79,0.95,0.0354,6.8,0.24,0.45,0.69,UEFA,F
+Gayà,José Luís Gayà Peña,Spain,LB,Defender,30,80,85.0,61,74,87,77,72,0.95,0.0328,6.8,0.22,0.41,0.64,UEFA,C
+T. Meunier,Thomas Meunier,Belgium,"RB,RM",Defender,34,82,85.0,76,80,81,75,71,0.85,0.0328,6.8,0.22,0.41,0.63,UEFA,G
+T. Rincón,Tomás Eduardo Rincón Hernández,Venezuela,"CM,CDM",Midfielder,38,77,73.0,45,66,69,76,72,0.55,0.0702,3.2,0.22,0.84,1.06,CONMEBOL,J
+João Cancelo,João Pedro Cavaco Cancelo,Portugal,RB,Defender,31,83,82.0,58,78,91,85,74,0.95,0.0348,6.0,0.21,0.37,0.58,UEFA,G
+T. Alexander-Arnold,Trent Alexander-Arnold,England,RB,Defender,27,79,82.0,56,66,79,75,72,1.0,0.0334,6.0,0.2,0.36,0.56,UEFA,E
+D. Sidibé,Djibril Sidibé,France,"RB,LB",Defender,33,79,84.0,62,75,79,77,69,0.85,0.0298,6.8,0.2,0.4,0.6,UEFA,B
+L. Hernández,Lucas Hernández,France,"LB,CB",Defender,30,83,84.0,53,60,84,65,61,0.95,0.029,6.8,0.2,0.37,0.56,UEFA,B
+Sergi Roberto,Sergio Roberto Carnicer,Spain,"RB,RM,CM",Defender,34,83,85.0,63,69,79,80,83,0.85,0.0295,6.8,0.2,0.45,0.65,UEFA,C
+A. Florenzi,Alessandro  Florenzi,Italy,"RB,RW,LW",Defender,34,82,83.0,70,82,84,78,76,0.85,0.033,6.0,0.2,0.37,0.56,UEFA,H
+G. Medel,Gary Alexis Medel Soto,Chile,"CDM,CB",Midfielder,38,79,77.0,31,58,70,63,68,0.55,0.0584,3.2,0.19,0.8,0.99,CONMEBOL,C
+Jordi Alba,Jordi Alba Ramos,Spain,LB,Defender,36,87,85.0,73,80,93,80,76,0.72,0.0273,6.8,0.19,0.43,0.61,UEFA,C
+N. Tagliafico,Nicolás Alejandro Tagliafico,Argentina,LB,Defender,33,80,82.0,57,67,86,74,68,0.85,0.0276,6.8,0.19,0.38,0.57,CONMEBOL,D
+L. Digne,Lucas Digne,France,LB,Defender,32,81,84.0,52,69,75,77,72,0.85,0.0287,6.8,0.19,0.41,0.6,UEFA,B
+M. de Ligt,Matthijs de Ligt,Netherlands,CB,Defender,26,83,81.0,53,44,72,65,63,1.0,0.0294,6.0,0.18,0.33,0.51,UEFA,D
+B. Chilwell,Ben Chilwell,England,LB,Defender,29,78,82.0,43,74,82,77,66,0.95,0.0297,6.0,0.18,0.34,0.51,UEFA,E
+Carvajal,Daniel Carvajal Ramos,Spain,RB,Defender,34,85,85.0,41,72,85,78,70,0.85,0.026,6.8,0.18,0.41,0.59,UEFA,C
+M. Plattenhardt,Marvin Plattenhardt,Germany,"LB,LM",Defender,34,77,85.0,43,67,74,75,65,0.85,0.0266,6.8,0.18,0.38,0.57,UEFA,F
+K. Zouma,Kurt Happy Zouma,France,CB,Defender,31,79,84.0,47,53,70,50,59,0.95,0.0254,6.8,0.17,0.32,0.5,UEFA,B
+M. Ginter,Matthias Ginter,Germany,"CB,CDM",Defender,32,81,85.0,55,55,69,62,69,0.85,0.0253,6.8,0.17,0.39,0.56,UEFA,F
+Cédric,Cédric Ricardo Alves Soares,Portugal,"RB,RWB",Defender,34,77,82.0,57,71,78,75,65,0.85,0.0292,6.0,0.17,0.34,0.51,UEFA,G
+B. Pavard,Benjamin Pavard,France,"CB,RB",Defender,29,79,84.0,37,54,73,66,66,0.95,0.0253,6.8,0.17,0.39,0.57,UEFA,B
+D. Dumfries,Denzel Dumfries,Netherlands,RB,Defender,29,76,81.0,47,69,84,71,58,0.95,0.0289,6.0,0.17,0.31,0.48,UEFA,D
+Iñigo Martínez,Íñigo Martínez Berridi,Spain,CB,Defender,34,80,85.0,42,48,74,53,46,0.85,0.0237,6.8,0.16,0.33,0.49,UEFA,C
+N. Aké,Nathan Aké,Netherlands,CB,Defender,31,80,81.0,45,53,74,67,65,0.95,0.027,6.0,0.16,0.34,0.5,UEFA,D
+J. Hector,Jonas Hector,Germany,"LB,CDM",Defender,35,79,85.0,55,62,77,74,72,0.72,0.0231,6.8,0.16,0.4,0.56,UEFA,F
+K. Tete,Kenny Tete,Netherlands,"RB,RWB",Defender,30,77,81.0,42,60,79,65,60,0.95,0.0264,6.0,0.16,0.31,0.47,UEFA,D
+P. van Aanholt,Patrick  van Aanholt,Netherlands,LB,Defender,35,76,81.0,66,75,89,76,68,0.72,0.0262,6.0,0.16,0.34,0.5,UEFA,D
+K. Walker,Kyle Walker,England,RB,Defender,35,84,82.0,51,67,93,79,69,0.72,0.0245,6.0,0.15,0.35,0.5,UEFA,E
+D. Rose,Danny Rose,England,"LB,LWB",Defender,35,81,82.0,57,68,78,80,73,0.72,0.0242,6.0,0.15,0.35,0.5,UEFA,E
+M. Hummels,Mats  Hummels,Germany,CB,Defender,37,88,85.0,55,56,62,68,79,0.72,0.022,6.8,0.15,0.43,0.58,UEFA,F
+R. Varane,Raphaël Varane,France,CB,Defender,32,86,84.0,40,44,85,57,56,0.85,0.0218,6.8,0.15,0.36,0.51,UEFA,B
+Azpilicueta,César Azpilicueta Tanco,Spain,"RB,CB",Defender,36,86,85.0,46,62,76,69,74,0.72,0.0219,6.8,0.15,0.42,0.57,UEFA,C
+V. van Dijk,Virgil van Dijk,Netherlands,CB,Defender,34,88,81.0,52,41,77,70,60,0.85,0.0254,6.0,0.15,0.34,0.49,UEFA,D
+G. Pezzella,Germán Alejandro Pezzella,Argentina,CB,Defender,34,80,82.0,48,47,58,54,22,0.85,0.0217,6.8,0.15,0.24,0.39,CONMEBOL,D
+P. Kimpembe,Presnel Kimpembe,France,CB,Defender,30,83,84.0,31,39,78,58,60,0.95,0.0222,6.8,0.15,0.37,0.52,UEFA,B
+C. Biraghi,Cristiano Biraghi,Italy,"LB,LM",Defender,33,76,83.0,40,58,78,71,56,0.85,0.0251,6.0,0.15,0.31,0.46,UEFA,H
+T. Alderweireld,Toby Alderweireld,Belgium,CB,Defender,37,87,85.0,45,58,67,62,67,0.72,0.0213,6.8,0.14,0.4,0.55,UEFA,G
+M. De Sciglio,Mattia De Sciglio,Italy,"RB,LB",Defender,33,78,83.0,33,64,79,74,60,0.85,0.024,6.0,0.14,0.32,0.47,UEFA,H
+J. Gomez,Joe Gomez,England,"CB,RB",Defender,28,78,82.0,26,51,83,67,52,1.0,0.0227,6.0,0.14,0.29,0.43,UEFA,E
+Everticinho,Everton Jorge Simão Resende,Brazil,"RB,RW,CM",Defender,38,78,81.0,69,76,76,76,64,0.55,0.0202,6.8,0.14,0.37,0.51,CONMEBOL,A
+S. Zuber,Steven Zuber,Switzerland,"LWB,LM,LB,CM",Defender,34,76,77.0,63,74,79,78,72,0.85,0.0308,4.5,0.14,0.26,0.39,UEFA,A
+J. Stones,John Stones,England,CB,Defender,31,83,82.0,29,48,71,69,67,0.95,0.0226,6.0,0.14,0.35,0.48,UEFA,E
+Josué Chiamulera,Josué Durval Chiamulera Vaz,Brazil,CB,Defender,34,83,81.0,38,38,78,56,42,0.85,0.0203,6.8,0.14,0.31,0.45,CONMEBOL,A
+A. Rüdiger,Antonio Rüdiger,Germany,CB,Defender,33,82,85.0,32,39,78,60,57,0.85,0.0206,6.8,0.14,0.36,0.5,UEFA,F
+H. Maguire,Harry Maguire,England,CB,Defender,33,82,82.0,43,61,54,70,60,0.85,0.0238,6.0,0.14,0.33,0.47,UEFA,E
+Mário Rui,Mário Rui Silva Duarte,Portugal,LB,Defender,34,79,82.0,27,59,83,79,64,0.85,0.0239,6.0,0.14,0.34,0.48,UEFA,G
+K. Trippier,Kieran Trippier,England,"RB,RWB",Defender,35,82,82.0,48,75,75,75,80,0.72,0.024,6.0,0.14,0.38,0.52,UEFA,E
+R. Rodríguez,Ricardo Rodríguez,Switzerland,"LB,CB",Defender,33,80,77.0,59,68,73,76,74,0.85,0.0292,4.5,0.13,0.27,0.41,UEFA,A
+D. Blind,Daley Blind,Netherlands,"CB,LB,CDM",Defender,35,80,81.0,46,66,53,73,76,0.72,0.0222,6.0,0.13,0.38,0.51,UEFA,D
+R. Funes Mori,José Ramiro Funes Mori,Argentina,"CB,CM",Defender,35,77,82.0,40,49,68,63,59,0.72,0.0192,6.8,0.13,0.34,0.48,CONMEBOL,D
+N. Süle,Niklas Süle,Germany,CB,Defender,30,84,85.0,20,26,84,42,30,0.95,0.0188,6.8,0.13,0.28,0.41,UEFA,F
+J. Boateng,Jérôme Boateng,Germany,CB,Defender,37,85,85.0,34,47,72,64,75,0.72,0.0192,6.8,0.13,0.41,0.54,UEFA,F
+V. Lazaro,Valentino Lazaro,Austria,"RB,RM,CAM,LM",Defender,29,75,77.0,69,73,83,81,75,0.95,0.0349,3.8,0.13,0.23,0.36,UEFA,J
+J. Tah,Jonathan Tah,Germany,CB,Defender,30,82,85.0,20,27,77,55,61,0.95,0.0171,6.8,0.12,0.36,0.48,UEFA,F
+F. Schär,Fabian Schär,Switzerland,CB,Defender,34,75,77.0,60,66,50,64,68,0.85,0.0277,4.5,0.12,0.25,0.38,UEFA,A
+D. Rugani,Daniele Rugani,Italy,CB,Defender,31,82,83.0,33,28,67,64,50,0.95,0.0207,6.0,0.12,0.28,0.4,UEFA,H
+N. Lima,Nick Lima,USA,RB,Defender,31,69,74.0,58,64,80,70,60,0.95,0.0309,3.8,0.12,0.19,0.31,CONCACAF,E
+G. Mercado,Gabriel Iván Mercado,Argentina,"CB,RB",Defender,38,79,82.0,60,63,75,57,60,0.55,0.0174,6.8,0.12,0.35,0.47,CONMEBOL,D
+S. Arias,Santiago Arias Naranjo,Colombia,RB,Defender,34,79,79.0,51,70,86,74,64,0.85,0.0267,4.5,0.12,0.25,0.37,CONMEBOL,F
+J. Vertonghen,Jan Vertonghen,Belgium,CB,Defender,38,87,85.0,56,60,65,71,68,0.55,0.0177,6.8,0.12,0.4,0.52,UEFA,G
+Welington Dano,Welington Kauê Dano Nascimento,Brazil,"LB,LM",Defender,38,80,81.0,51,72,80,77,75,0.55,0.0174,6.8,0.12,0.41,0.53,CONMEBOL,A
+D. Alaba,David Olatukunbo Alaba,Austria,"LB,CB",Defender,33,84,77.0,63,76,86,79,77,0.85,0.0315,3.8,0.12,0.24,0.36,UEFA,J
+L. Augustinsson,Ludwig Augustinsson,Sweden,LB,Defender,31,77,76.0,55,65,79,73,73,0.95,0.0307,3.8,0.12,0.22,0.34,UEFA,L
+Gazzolisco,Gérson Adriano Gutierres Serra,Brazil,"LB,LM",Defender,38,77,81.0,54,57,82,71,56,0.55,0.0179,6.8,0.12,0.36,0.48,CONMEBOL,A
+Nacho Fernández,José Ignacio Fernández Iglesias,Spain,"CB,LB,RB",Defender,36,83,85.0,32,37,79,55,53,0.72,0.0162,6.8,0.11,0.34,0.45,UEFA,C
+M. Lang,Michael Lang,Switzerland,"RB,RM",Defender,35,77,77.0,71,67,76,63,55,0.72,0.0248,4.5,0.11,0.23,0.35,UEFA,A
+D. Sánchez,Davinson Sánchez,Colombia,CB,Defender,29,84,79.0,40,34,79,63,49,0.95,0.0237,4.5,0.11,0.22,0.33,CONMEBOL,F
+N. Otamendi,Nicolás Hernán Otamendi,Argentina,CB,Defender,38,84,82.0,54,51,61,51,53,0.55,0.0156,6.8,0.11,0.34,0.45,CONMEBOL,D
+S. de Vrij,Stefan de Vrij,Netherlands,CB,Defender,34,84,81.0,25,32,69,63,59,0.85,0.0191,6.0,0.11,0.31,0.43,UEFA,D
+O. Bayram,Ömer Bayram,Turkey,"LB,LM",Defender,34,71,76.0,63,72,84,75,67,0.85,0.03,3.8,0.11,0.2,0.31,UEFA,K
+M. Sakho,Mamadou Sakho,France,CB,Defender,36,79,84.0,23,36,55,50,61,0.72,0.014,6.8,0.1,0.36,0.46,UEFA,B
+V. Lindelöf,Victor Nilsson Lindelöf,Sweden,CB,Defender,31,81,76.0,42,53,76,70,69,0.95,0.0271,3.8,0.1,0.22,0.33,UEFA,L
+J. Knudsen,Jonas Knudsen,Denmark,"LB,CB,LWB",Defender,33,69,78.0,25,64,71,62,59,0.85,0.0224,4.5,0.1,0.22,0.32,UEFA,B
+J. Stryger Larsen,Jens Stryger Larsen,Denmark,"RB,CB",Defender,35,74,78.0,48,56,79,68,58,0.72,0.0213,4.5,0.1,0.22,0.32,UEFA,B
+M. Hinteregger,Martin Hinteregger,Austria,CB,Defender,33,78,77.0,48,61,73,55,65,0.85,0.0256,3.8,0.1,0.2,0.3,UEFA,J
+H. Dalsgaard,Henrik Dalsgaard,Denmark,"RWB,RB",Defender,36,71,78.0,58,69,82,66,58,0.72,0.0232,4.5,0.1,0.22,0.32,UEFA,B
+M. Akanji,Manuel Obafemi Akanji,Switzerland,CB,Defender,30,81,77.0,36,33,86,67,66,0.95,0.0229,4.5,0.1,0.26,0.36,UEFA,A
+M. Kamiński,Marcin Kamiński,Poland,CB,Defender,34,73,77.0,53,59,76,59,56,0.85,0.0254,3.8,0.1,0.2,0.29,UEFA,I
+B. Bereszyński,Bartosz Bereszyński,Poland,RB,Defender,33,74,77.0,50,60,87,68,60,0.85,0.0258,3.8,0.1,0.19,0.29,UEFA,I
+M. Çelik,Mehmet Zeki Çelik,Turkey,RB,Defender,29,74,76.0,37,70,82,67,69,0.95,0.0259,3.8,0.1,0.21,0.31,UEFA,K
+K. Ayhan,Kaan Ayhan,Turkey,"CB,CDM",Defender,31,75,76.0,35,50,66,64,65,0.95,0.0262,3.8,0.1,0.21,0.31,UEFA,K
+T. Kędziora,Tomasz Kędziora,Poland,RB,Defender,31,74,77.0,37,66,79,62,61,0.95,0.0259,3.8,0.1,0.19,0.29,UEFA,I
+D. Yedlin,DeAndre Yedlin,USA,"RB,RWB",Defender,32,76,74.0,40,70,93,75,68,0.85,0.0264,3.8,0.1,0.2,0.3,CONCACAF,E
+E. Krafth,Emil Krafth,Sweden,RB,Defender,31,73,76.0,41,52,78,68,60,0.95,0.0265,3.8,0.1,0.19,0.29,UEFA,L
+N. Elvedi,Nico Elvedi,Switzerland,"CB,RB,LB",Defender,29,78,77.0,30,53,77,69,59,0.95,0.0226,4.5,0.1,0.23,0.33,UEFA,A
+S. Özbayraklı,Şener Özbayraklı,Turkey,RB,Defender,36,74,76.0,47,66,82,72,68,0.72,0.0231,3.8,0.09,0.21,0.3,UEFA,K
+S. Kjær,Simon Thorup Kjær,Denmark,CB,Defender,36,81,78.0,55,31,65,46,49,0.72,0.0189,4.5,0.09,0.22,0.3,UEFA,B
+J. Vestergaard,Jannik Vestergaard,Denmark,CB,Defender,33,79,78.0,34,46,38,44,60,0.85,0.0201,4.5,0.09,0.23,0.32,UEFA,B
+M. Olsson,Martin Olsson,Sweden,"LB,LWB",Defender,37,71,76.0,55,66,82,68,66,0.72,0.0234,3.8,0.09,0.2,0.29,UEFA,L
+J. Giménez,José María Giménez de Vargas,Uruguay,CB,Defender,31,84,81.0,37,24,70,47,27,0.95,0.021,4.5,0.09,0.17,0.27,CONMEBOL,G
+M. Suárez,Mathías Suárez,Uruguay,"RB,LB,RWB",Defender,29,71,81.0,24,46,75,53,39,0.95,0.0206,4.5,0.09,0.19,0.29,CONMEBOL,G
+L. Bonucci,Leonardo Bonucci,Italy,CB,Defender,38,86,83.0,48,38,65,69,74,0.55,0.0153,6.0,0.09,0.37,0.46,UEFA,H
+F. Moubandje,Jacques François Moubandje,Switzerland,"LB,CB,LWB",Defender,35,72,77.0,42,68,69,70,57,0.72,0.0208,4.5,0.09,0.23,0.33,UEFA,A
+A. Christensen,Andreas Christensen,Denmark,CB,Defender,29,80,78.0,36,32,70,66,62,0.95,0.02,4.5,0.09,0.25,0.34,UEFA,B
+C. Söyüncü,Çağlar Söyüncü,Turkey,CB,Defender,29,74,76.0,37,42,72,57,49,0.95,0.023,3.8,0.09,0.16,0.25,UEFA,K
+J. Murillo,Jeison Fabián Murillo Cerón,Colombia,CB,Defender,33,80,79.0,37,45,76,58,54,0.85,0.0209,4.5,0.09,0.22,0.31,CONMEBOL,F
+B. Davies,Ben Davies,Wales,LB,Defender,32,80,75.0,58,71,74,76,75,0.85,0.0283,3.2,0.09,0.19,0.28,UEFA,E
+A. Robinson,Antonee Robinson,USA,"LB,LWB",Defender,28,69,74.0,33,49,86,69,40,1.0,0.0232,3.8,0.09,0.13,0.22,CONCACAF,E
+S. Aurier,Serge Aurier,Ivory Coast,"RB,RWB",Defender,33,80,75.0,54,72,78,76,71,0.85,0.0284,3.2,0.09,0.19,0.28,CAF,J
+J. Brooks,John Anthony Brooks,USA,CB,Defender,33,79,74.0,39,40,76,65,57,0.85,0.02,3.8,0.08,0.2,0.28,CONCACAF,E
+Antônio Chiamuloira,A. Benjamin Chiamuloira Paes,Brazil,"CB,LB",Defender,38,79,81.0,51,24,72,44,47,0.55,0.0124,6.8,0.08,0.32,0.4,CONMEBOL,A
+H. Kaldırım,Hasan Ali Kaldırım,Turkey,LB,Defender,36,73,76.0,42,62,73,70,58,0.72,0.0217,3.8,0.08,0.2,0.28,UEFA,K
+A. Dragović,Aleksandar Dragović,Austria,CB,Defender,35,77,77.0,41,63,67,62,65,0.72,0.0204,3.8,0.08,0.2,0.27,UEFA,J
+A. Behich,Aziz Eraltay Behich,Australia,LB,Defender,35,73,73.0,65,63,81,74,50,0.72,0.0244,3.2,0.08,0.16,0.24,AFC,H
+Nouhou,Nouhou Tolo,Cameroon,LB,Defender,28,68,75.0,28,53,87,64,51,1.0,0.0243,3.2,0.08,0.15,0.22,CAF,C
+D. Reyes,Diego Antonio Reyes Rosales,Mexico,CB,Defender,33,76,77.0,45,44,65,67,52,0.85,0.0218,3.8,0.08,0.2,0.28,CONCACAF,F
+W. Zimmerman,Walker Zimmerman,USA,CB,Defender,32,72,74.0,52,48,65,42,37,0.85,0.0217,3.8,0.08,0.16,0.24,CONCACAF,E
+F. Acerbi,Francesco Acerbi,Italy,CB,Defender,38,83,83.0,37,20,55,65,65,0.55,0.0132,6.0,0.08,0.34,0.41,UEFA,H
+A. Gersbach,Alex Gersbach,Australia,LB,Defender,28,65,73.0,34,59,80,59,54,1.0,0.0241,3.2,0.08,0.14,0.22,AFC,H
+H. Matynia,Hubert Matynia,Poland,"LB,LM",Defender,30,65,77.0,45,31,79,53,45,0.95,0.0222,3.8,0.08,0.15,0.23,UEFA,I
+R. Rosales,Roberto Rosales,Venezuela,"RB,RWB,RM",Defender,37,74,73.0,59,64,73,69,63,0.72,0.0237,3.2,0.08,0.17,0.24,CONMEBOL,J
+A. Long,Aaron Long,USA,CB,Defender,33,74,74.0,32,49,80,59,53,0.85,0.0199,3.8,0.08,0.19,0.26,CONCACAF,E
+M. Jørgensen,Mathias Jørgensen,Denmark,CB,Defender,35,77,78.0,34,46,68,46,65,0.72,0.0167,4.5,0.08,0.23,0.31,UEFA,B
+L. Advíncula,Luis Jan Piers Advíncula Castrillón,Peru,"RB,RWB",Defender,36,74,73.0,58,68,94,76,60,0.72,0.0248,3.2,0.08,0.17,0.25,CONMEBOL,B
+A. Bjelland,Andreas Bjelland,Denmark,CB,Defender,37,74,78.0,36,60,45,55,60,0.72,0.0181,4.5,0.08,0.23,0.32,UEFA,B
+P. Dummett,Paul Dummett,Wales,LB,Defender,34,75,75.0,41,56,68,65,52,0.85,0.0215,3.2,0.07,0.16,0.23,UEFA,E
+M. Isla,Mauricio Aníbal Isla Isla,Chile,"RB,CM",Defender,37,75,77.0,41,70,75,75,68,0.72,0.022,3.2,0.07,0.18,0.25,CONMEBOL,C
+S. Deli,Simon Deli,Ivory Coast,CB,Defender,34,74,75.0,37,38,78,62,33,0.85,0.0205,3.2,0.07,0.13,0.19,CAF,J
+N. Araújo,Néstor Alejandro Araújo Razo,Mexico,CB,Defender,34,75,77.0,34,30,72,53,43,0.85,0.0187,3.8,0.07,0.17,0.25,CONCACAF,F
+T. Sainsbury,Trent Sainsbury,Australia,CB,Defender,34,74,73.0,45,52,74,55,62,0.85,0.0225,3.2,0.07,0.16,0.24,AFC,H
+M. Cáceres,Martín Cáceres,Uruguay,"CB,RB",Defender,38,78,81.0,37,50,78,60,58,0.55,0.0147,4.5,0.07,0.22,0.29,CONMEBOL,G
+C. Roberts,Connor Roberts,Wales,"RB,RW,LB",Defender,30,69,75.0,35,55,67,66,52,0.95,0.023,3.2,0.07,0.15,0.22,UEFA,E
+S. Leuko,Serge Sidoine Tchaha Leuko,Cameroon,"RB,LB",Defender,32,67,75.0,42,52,77,55,45,0.85,0.0228,3.2,0.07,0.13,0.21,CAF,C
+J. Castelletto,Jean-Charles Castelletto,Cameroon,CB,Defender,31,69,75.0,18,56,79,54,58,0.95,0.0205,3.2,0.07,0.16,0.23,CAF,C
+C. Fai,Ngoran Suiru Fai Collins,Cameroon,"RB,LB",Defender,33,72,75.0,22,58,83,66,59,0.85,0.0204,3.2,0.07,0.16,0.22,CAF,C
+E. Bailly,Eric Bailly,Ivory Coast,CB,Defender,31,81,75.0,33,47,81,62,54,0.95,0.0231,3.2,0.07,0.15,0.23,CAF,J
+F. Helander,Filip Helander,Sweden,CB,Defender,32,75,76.0,28,24,52,52,45,0.85,0.0158,3.8,0.06,0.15,0.21,UEFA,L
+K. Wimmer,Kevin Wimmer,Austria,CB,Defender,33,74,77.0,21,35,53,63,59,0.85,0.016,3.8,0.06,0.2,0.26,UEFA,J
+G. Bong,Gaëtan Bong Songo,Cameroon,LB,Defender,37,74,75.0,29,63,68,68,65,0.72,0.0188,3.2,0.06,0.18,0.24,CAF,C
+A. Traoré,Adama Traoré,Ivory Coast,LB,Defender,36,73,75.0,30,65,88,69,61,0.72,0.0194,3.2,0.06,0.16,0.23,CAF,J
+T. Klose,Timm Klose,Switzerland,CB,Defender,37,75,77.0,29,40,42,27,54,0.72,0.0143,4.5,0.06,0.21,0.27,UEFA,A
+J. Bednarek,Jan Bednarek,Poland,CB,Defender,29,72,77.0,19,26,68,50,52,0.95,0.0147,3.8,0.06,0.17,0.22,UEFA,I
+M. Ngadeu-Ngadjui,Michael Ngadeu-Ngadjui,Cameroon,"CB,CDM",Defender,35,74,75.0,39,41,70,53,48,0.72,0.0177,3.2,0.06,0.15,0.2,CAF,C
+M. Miazga,Matt Miazga,USA,CB,Defender,30,73,74.0,16,27,58,53,32,0.95,0.0157,3.8,0.06,0.15,0.21,CONCACAF,E
+C. Mepham,Chris Mepham,Wales,CB,Defender,28,70,75.0,22,28,65,56,53,1.0,0.0177,3.2,0.06,0.15,0.2,UEFA,E
+N. Nkoulou,Nicolas N'Koulou,Cameroon,CB,Defender,35,80,75.0,33,54,74,68,63,0.72,0.0186,3.2,0.06,0.17,0.23,CAF,C
+A. Jędrzejczyk,Artur Jędrzejczyk,Poland,"RB,LB,CB",Defender,38,70,77.0,48,53,70,63,42,0.55,0.0155,3.8,0.06,0.17,0.23,UEFA,I
+R. Feltscher,Rolf Günther Feltscher Martínez,Venezuela,"RB,CB,LB",Defender,35,66,73.0,32,54,60,63,62,0.72,0.0185,3.2,0.06,0.16,0.22,CONMEBOL,J
+M. James,Manjrekar James,Canada,"CB,CDM",Defender,32,67,70.0,29,31,66,49,45,0.85,0.0175,3.2,0.06,0.14,0.19,CONCACAF,I
+E. Ersoy,Ertuğrul Ersoy,Turkey,"CB,RB",Defender,29,70,76.0,22,28,60,53,36,0.95,0.017,3.8,0.06,0.15,0.21,UEFA,K
+A. Elmohamady,Ahmed Eissa  El Mohamady Abdel Fattah,Egypt,"RB,RM",Defender,38,70,73.0,61,69,73,68,67,0.55,0.0184,3.2,0.06,0.18,0.23,CAF,L
+M. Boxall,Michael Boxall,New Zealand,"CB,RB",Defender,37,67,66.0,35,59,69,56,52,0.72,0.0179,3.2,0.06,0.15,0.2,OFC,L
+E. Ampadu,Ethan Ampadu,Wales,"CB,CDM",Defender,25,65,75.0,23,29,58,57,59,1.0,0.019,3.2,0.06,0.16,0.22,UEFA,E
+P. Jansson,Pontus Jansson,Sweden,CB,Defender,35,77,76.0,29,28,69,64,50,0.72,0.0158,3.8,0.06,0.18,0.24,UEFA,L
+G. Maripán,Guillermo Alfonso Maripán Loaysa,Chile,CB,Defender,31,77,77.0,28,28,48,40,30,0.95,0.0173,3.2,0.06,0.12,0.17,CONMEBOL,C
+E. Roco,Enzo Pablo Roco Roco,Chile,CB,Defender,33,74,77.0,43,42,43,55,49,0.85,0.0192,3.2,0.06,0.15,0.21,CONMEBOL,C
+C. Gunter,Chris Gunter,Wales,"RB,LB,RWB",Defender,36,66,75.0,44,61,74,56,58,0.72,0.0192,3.2,0.06,0.15,0.21,UEFA,E
+D. Henry,Doneil Henry,Canada,"CB,RB",Defender,32,65,70.0,36,32,55,44,47,0.85,0.0186,3.2,0.06,0.13,0.19,CONCACAF,I
+S. Aziz,Serdar Aziz,Turkey,CB,Defender,35,77,76.0,26,24,72,52,44,0.72,0.0134,3.8,0.05,0.17,0.22,UEFA,K
+A. Mina,Arturo Mina,Ecuador,CB,Defender,35,73,72.0,30,38,50,47,44,0.72,0.0148,3.2,0.05,0.14,0.19,CONMEBOL,D
+J. Chester,James Chester,Wales,CB,Defender,37,74,75.0,33,44,72,60,49,0.72,0.0157,3.2,0.05,0.15,0.2,UEFA,E
+L. Koné,Lamine Koné,Ivory Coast,CB,Defender,37,75,75.0,34,54,64,52,38,0.72,0.0168,3.2,0.05,0.12,0.18,CAF,J
+M. Bagayoko,Mamadou Bagayoko,Ivory Coast,"RB,RWB",Defender,36,68,75.0,21,56,74,63,53,0.72,0.0154,3.2,0.05,0.14,0.19,CAF,J
+S. Prödl,Sebastian Prödl,Austria,CB,Defender,38,74,77.0,34,37,31,30,46,0.55,0.0104,3.8,0.04,0.15,0.19,UEFA,J
+T. Smith,Tommy Smith,New Zealand,CB,Defender,35,69,66.0,24,45,62,40,50,0.72,0.014,3.2,0.04,0.14,0.18,OFC,L
+K. Glik,Kamil Glik,Poland,CB,Defender,38,82,77.0,27,24,52,51,23,0.55,0.0101,3.8,0.04,0.14,0.18,UEFA,I
+A. Hegazi,Ahmed Hegazi,Egypt,CB,Defender,35,76,73.0,17,20,55,49,41,0.72,0.0103,3.2,0.03,0.13,0.16,CAF,L
+Pau López,Pau López Sabata,Spain,GK,Goalkeeper,31,82,85.0,19,20,52,18,62,0.95,0.0,6.8,0.0,0.03,0.03,UEFA,C
+Kepa,Kepa Arrizabalaga,Spain,GK,Goalkeeper,31,84,85.0,11,15,33,10,55,0.95,0.0,6.8,0.0,0.03,0.03,UEFA,C
+Raphaelito Anjos,Raphael William Anjos Rochedo,Brazil,GK,Goalkeeper,38,82,81.0,8,27,42,9,71,0.55,0.0,6.8,0.0,0.03,0.03,CONMEBOL,A
+Z. Steffen,Zack Steffen,USA,GK,Goalkeeper,30,75,74.0,9,9,52,15,58,0.95,0.0,3.8,0.0,0.02,0.02,CONCACAF,E
+W. Szczęsny,Wojciech  Szczęsny,Poland,GK,Goalkeeper,35,86,77.0,12,14,47,11,48,0.72,0.0,3.8,0.0,0.01,0.01,UEFA,I
+F. Rønnow,Frederik Rønnow,Denmark,GK,Goalkeeper,33,75,78.0,9,14,45,13,48,0.85,0.0,4.5,0.0,0.02,0.02,UEFA,B
+M. Bizot,Marco Bizot,Netherlands,GK,Goalkeeper,34,75,81.0,15,13,47,12,47,0.85,0.0,6.0,0.0,0.02,0.02,UEFA,D
+S. Bolat,Sinan Bolat,Turkey,GK,Goalkeeper,37,75,76.0,12,17,38,17,53,0.72,0.0,3.8,0.0,0.02,0.02,UEFA,K
+D. Ward,Danny Ward,Wales,GK,Goalkeeper,32,73,75.0,11,7,44,19,38,0.85,0.0,3.2,0.0,0.01,0.01,UEFA,E
+K. Nordfeldt,Kristoffer Nordfeldt,Sweden,GK,Goalkeeper,36,72,76.0,13,15,52,14,34,0.72,0.0,3.8,0.0,0.01,0.01,UEFA,L
+E. Horvath,Ethan Horvath,USA,GK,Goalkeeper,30,71,74.0,17,11,49,16,50,0.95,0.0,3.8,0.0,0.01,0.01,CONCACAF,E
+M. Crépeau,Maxime Crépeau,Canada,GK,Goalkeeper,31,66,70.0,17,7,39,15,44,0.95,0.0,3.2,0.0,0.01,0.01,CONCACAF,I
+A. Davies,Adam Davies,Wales,GK,Goalkeeper,33,67,75.0,11,8,40,12,40,0.85,0.0,3.2,0.0,0.01,0.01,UEFA,E
+M. Sayouba,Mandé Sayouba,Ivory Coast,GK,Goalkeeper,32,67,75.0,19,16,40,12,55,0.85,0.0,3.2,0.0,0.01,0.01,CAF,J
+J. Contreras,José Contreras,Venezuela,GK,Goalkeeper,31,65,73.0,8,8,25,7,51,0.95,0.0,3.2,0.0,0.01,0.01,CONMEBOL,J
+G. Akkan,Gökhan Akkan,Turkey,GK,Goalkeeper,31,67,76.0,15,13,48,15,34,0.95,0.0,3.8,0.0,0.01,0.01,UEFA,K
+A. Cragno,Alessio Cragno,Italy,GK,Goalkeeper,31,78,83.0,12,15,37,13,42,0.95,0.0,6.0,0.0,0.02,0.02,UEFA,H
+R. Olsen,Robin Olsen,Sweden,GK,Goalkeeper,36,78,76.0,11,13,40,11,55,0.72,0.0,3.8,0.0,0.02,0.02,UEFA,L
+D. Ospina,David Ospina Ramírez,Colombia,GK,Goalkeeper,37,79,79.0,10,16,34,12,50,0.72,0.0,4.5,0.0,0.02,0.02,CONMEBOL,F
+N. Pope,Nick Pope,England,GK,Goalkeeper,33,79,82.0,14,13,47,15,43,0.85,0.0,6.0,0.0,0.02,0.02,UEFA,E
+J. Zoet,Jeroen Zoet,Netherlands,GK,Goalkeeper,35,80,81.0,12,11,45,15,57,0.72,0.0,6.0,0.0,0.03,0.03,UEFA,D
+Gabri Prestão,Bernard Gabriel Prestão Chaves,Brazil,GK,Goalkeeper,34,79,81.0,9,5,62,18,60,0.85,0.0,6.8,0.0,0.02,0.02,CONMEBOL,A
+F. Ondoa,Fabrice Ondoa,Cameroon,GK,Goalkeeper,30,70,75.0,18,12,56,16,30,0.95,0.0,3.2,0.0,0.01,0.01,CAF,C
+A. Areola,Alphonse Areola,France,GK,Goalkeeper,33,81,84.0,19,17,52,12,45,0.85,0.0,6.8,0.0,0.03,0.03,UEFA,B
+K. Johnsson,Karl-Johan Johnsson,Sweden,GK,Goalkeeper,36,73,76.0,13,16,49,16,49,0.72,0.0,3.8,0.0,0.01,0.01,UEFA,L
+J. Lössl,Jonas Lössl,Denmark,GK,Goalkeeper,37,76,78.0,12,10,34,15,53,0.72,0.0,4.5,0.0,0.02,0.02,UEFA,B
+L. Skorupski,Łukasz Skorupski,Poland,GK,Goalkeeper,34,76,77.0,11,13,51,18,32,0.85,0.0,3.8,0.0,0.01,0.01,UEFA,I
+J. Cillessen,Jasper Cillessen,Netherlands,GK,Goalkeeper,36,82,81.0,10,11,50,12,60,0.72,0.0,6.0,0.0,0.03,0.03,UEFA,D
+M. Ryan,Mathew Ryan,Australia,GK,Goalkeeper,33,80,73.0,11,10,52,13,68,0.85,0.0,3.2,0.0,0.02,0.02,AFC,H
+A. Onana,André Onana,Cameroon,GK,Goalkeeper,29,80,75.0,12,11,62,26,62,0.95,0.0,3.2,0.0,0.01,0.01,CAF,C
+Rui Patrício,Rui Pedro dos Santos Patrício,Portugal,GK,Goalkeeper,38,83,82.0,12,13,57,20,64,0.55,0.0,6.0,0.0,0.03,0.03,UEFA,G
+J. Butland,Jack Butland,England,GK,Goalkeeper,32,80,82.0,16,16,55,21,40,0.85,0.0,6.0,0.0,0.02,0.02,UEFA,E
+K. Casteels,Koen Casteels,Belgium,GK,Goalkeeper,33,83,85.0,15,15,46,14,42,0.85,0.0,6.8,0.0,0.02,0.02,UEFA,G
+B. Leno,Bernd Leno,Germany,GK,Goalkeeper,34,83,85.0,9,7,52,16,54,0.85,0.0,6.8,0.0,0.03,0.03,UEFA,F
+G. Donnarumma,Gianluigi Donnarumma,Italy,GK,Goalkeeper,27,83,83.0,12,14,54,28,50,1.0,0.0,6.0,0.0,0.02,0.02,UEFA,H
+J. Pickford,Jordan Pickford,England,GK,Goalkeeper,32,83,82.0,19,18,44,14,68,0.85,0.0,6.0,0.0,0.03,0.03,UEFA,E
+Y. Sommer,Yann Sommer,Switzerland,GK,Goalkeeper,37,84,77.0,13,15,54,15,58,0.72,0.0,4.5,0.0,0.02,0.02,UEFA,A
+M. ter Stegen,Marc-André ter Stegen,Germany,GK,Goalkeeper,33,89,85.0,14,11,50,17,70,0.85,0.0,6.8,0.0,0.04,0.04,UEFA,F
+T. Courtois,Thibaut Courtois,Belgium,GK,Goalkeeper,33,89,85.0,14,13,52,13,44,0.85,0.0,6.8,0.0,0.02,0.02,UEFA,G
+De Gea,David De Gea Quintana,Spain,GK,Goalkeeper,35,91,85.0,13,12,58,18,68,0.72,0.0,6.8,0.0,0.04,0.04,UEFA,C

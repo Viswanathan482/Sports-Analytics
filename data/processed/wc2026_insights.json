@@ -1,0 +1,43 @@
+{
+  "generated": "June 29, 2026",
+  "data_source": "10 CSV files \u2014 all columns extracted",
+  "tournament_status": "Round of 32 \u2014 73 completed, 16 scheduled",
+  "total_goals": 216,
+  "avg_goals_per_match": 2.96,
+  "total_xg": 192.79,
+  "total_yellow_cards": 55,
+  "total_red_cards": 9,
+  "champion_prediction": {
+    "team": "Argentina",
+    "win_prob": "22.6%",
+    "elo": 2150
+  },
+  "runner_up": {
+    "team": "Spain",
+    "win_prob": "17.0%",
+    "elo": 2120
+  },
+  "golden_boot": {
+    "player": "Lionel Andr\u00e9s Messi",
+    "team": "Argentina",
+    "goals": 6
+  },
+  "top_10_scorers": {
+    "Lionel Andr\u00e9s Messi": 6,
+    "Jos\u00e9 Vinicius": 4,
+    "Masour Ousmane Dembele": 4,
+    "Erling Braut Haaland": 4,
+    "Kylian Mbappe": 4,
+    "Matheus Matheus Cunha": 3,
+    "Ismael Saibari": 3,
+    "Deniz Undav": 3,
+    "Jonathan Christian David": 3,
+    "Johan Kula Manzambi": 3
+  },
+  "highest_xg_team": "Germany",
+  "most_goals_time_period": "76-90 mins (25.9% of all goals)",
+  "elevation_record": "Estadio Azteca, Mexico City \u2014 2,200m above sea level",
+  "most_saves_gk": "Eloy Victor Room",
+  "strictest_referee": "Yoshimi Yamashita",
+  "best_save_pct": "['Unai Simon' 100.0]"
+}

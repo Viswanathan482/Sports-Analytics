@@ -1,0 +1,156 @@
+player_id,player_name,team_name,position,club_team,market_value_M,caps,current_goals,current_assists,current_mins,goals_per_90,group_letter,confederation,fifa_code,elo_rating
+946,Lionel Andrés Messi,Argentina,FWD,Inter Miami CF,15.0,200,6,0,90,6.0,J,CONMEBOL,ARG,2150
+215,José Vinicius,Brazil,FWD,Real Madrid C. F.,140.0,50,4,1,270,1.333,C,CONMEBOL,BRA,2030
+839,Masour Ousmane Dembele,France,FWD,Paris Saint-Germain,100.0,60,4,1,60,6.0,I,UEFA,FRA,2100
+919,Erling Braut Haaland,Norway,FWD,Manchester City FC,200.0,51,4,0,270,1.333,I,UEFA,NOR,1775
+842,Kylian Mbappe,France,FWD,Real Madrid C. F.,180.0,99,4,2,270,1.333,I,UEFA,FRA,2100
+217,Matheus Matheus Cunha,Brazil,FWD,Manchester United FC,75.0,24,3,0,270,1.0,C,CONMEBOL,BRA,2030
+245,Ismael Saibari,Morocco,MID,PSV Eindhoven,40.0,31,3,0,270,1.0,C,CAF,MAR,1920
+442,Deniz Undav,Germany,FWD,VfB Stuttgart,22.0,10,3,2,60,4.5,E,UEFA,GER,1970
+114,Jonathan Christian David,Canada,FWD,Juventus FC,30.0,78,3,0,360,0.75,B,CONCACAF,CAN,1795
+191,Johan Kula Manzambi,Switzerland,MID,SC Freiburg,50.0,13,3,1,270,1.0,B,UEFA,SUI,1860
+1086,Yoane Wissa,Congo DR,FWD,Newcastle United FC,25.0,39,3,0,270,1.0,K,CAF,COD,1670
+713,Elijah Henry Just,New Zealand,MID,Motherwell FC,2.5,45,3,0,270,1.0,G,OFC,NZL,1510
+876,Ismaila Sarr,Senegal,FWD,Crystal Palace FC,40.0,85,3,1,270,1.0,I,CAF,SEN,1840
+1153,Harry Edward Kane,England,FWD,FC Bayern München,60.0,115,3,0,60,4.5,L,UEFA,ENG,2050
+539,Brian Ebenezer Adjei Brobbey,Netherlands,FWD,Sunderland AFC,30.0,13,3,0,60,4.5,F,UEFA,NED,1980
+332,Folarin Jolaoluwa Balogun,USA,FWD,AS Monaco,40.0,28,2,0,270,0.667,D,CONCACAF,USA,1850
+487,Nicolas Pepe,Côte d'Ivoire,FWD,Villarreal CF,6.0,57,2,0,30,6.0,E,CAF,CIV,1750
+423,Kai Lukas Havertz,Germany,FWD,Arsenal FC,55.0,59,2,0,270,0.667,E,UEFA,GER,1970
+16,Julián Andrés Quinones,Mexico,FWD,Al Qadsiah FC,14.0,23,2,0,60,3.0,A,CONCACAF,MEX,1810
+113,Cyle Christopher Larin,Canada,FWD,Southampton FC,3.5,91,2,0,60,3.0,B,CONCACAF,CAN,1795
+156,Ermin Mahmic,Bosnia and Herzegovina,MID,FC Slovan Liberec,5.0,2,2,0,270,0.667,B,UEFA,BIH,1645
+199,Ruben Estephan Vargas,Switzerland,FWD,Sevilla FC,12.0,62,2,1,60,3.0,B,UEFA,SUI,1860
+902,Hussein Ghadhban Aymen,Iraq,FWD,Al Karma SC,0.4,96,2,0,30,6.0,I,AFC,IRQ,1630
+995,Marko Arnautovic,Austria,FWD,FK Crvena Zvezda,2.0,134,2,0,60,3.0,J,UEFA,AUT,1830
+1047,Ronaldo Cristiano Ronaldo,Portugal,FWD,Al Nassr FC,10.0,229,2,0,30,6.0,K,UEFA,POR,2010
+749,Mikel Oyarzabal,Spain,FWD,Real Sociedad,25.0,54,2,1,30,6.0,H,UEFA,ESP,2120
+699,Ramin Rezaeian,IR Iran,DEF,Foolad Khuzestan FC,0.25,75,2,1,60,3.0,G,AFC,IRN,1820
+1120,Daniel Munoz,Colombia,DEF,Crystal Palace FC,22.0,47,2,0,270,0.667,K,CONMEBOL,COL,1990
+583,Anthony David Junior Elanga,Sweden,FWD,Newcastle United FC,32.0,31,2,0,60,3.0,F,UEFA,SWE,1815
+564,Ayase Ueda,Japan,FWD,Feyenoord Rotterdam,17.0,41,2,1,270,0.667,F,AFC,JPN,1880
+561,Daichi Kamada,Japan,MID,Crystal Palace FC,10.0,50,2,0,60,3.0,F,AFC,JPN,1880
+544,Crysencio Jilbert Sylverio Cir Summerville,Netherlands,FWD,West Ham United FC,35.0,3,2,1,60,3.0,F,UEFA,NED,1980
+969,Riyad Karim Mahrez,Algeria,FWD,Al Ahli FC,5.0,117,2,2,60,3.0,J,CAF,ALG,1760
+826,Maximiliano Javier Araujo,Uruguay,MID,Sporting CP,35.0,29,2,1,270,0.667,H,CONMEBOL,URU,1960
+884,Pape Alassane Gueye,Senegal,MID,Villarreal CF,40.0,43,2,1,270,0.667,I,CAF,SEN,1840
+590,Yasin Ayari,Sweden,MID,Brighton & Hove Albion FC,35.0,22,2,0,270,0.667,F,UEFA,SWE,1815
+531,Cody Mathès Gakpo,Netherlands,FWD,Liverpool FC,60.0,51,2,1,270,0.667,F,UEFA,NED,1980
+634,Leandro Trossard,Belgium,FWD,Arsenal FC,18.0,52,2,0,30,6.0,G,UEFA,BEL,1950
+1154,Jude Victor William Bellingham,England,MID,Real Madrid C. F.,130.0,49,2,1,270,0.667,L,UEFA,ENG,2050
+166,Khalid Hassan Alhaydos,Qatar,FWD,Al Sadd SC,0.3,190,1,0,30,3.0,B,AFC,QAT,1600
+189,Breel Donald Embolo,Switzerland,FWD,Stade Rennais FC,15.0,87,1,2,90,1.0,B,UEFA,SUI,1860
+182,Naceur Mohamed Manai,Qatar,FWD,Al Shamal SC,0.5,12,1,0,30,3.0,B,AFC,QAT,1600
+184,Miro Max Maria Muheim,Switzerland,DEF,Hamburger SV,5.0,11,1,0,30,3.0,B,UEFA,SUI,1860
+7,Luis Francisco Romo,Mexico,MID,CD Guadalajara,3.0,62,1,1,60,1.5,A,CONCACAF,MEX,1810
+8,Álvaro Fidalgo,Mexico,MID,Real Betis,6.0,5,1,0,30,3.0,A,CONCACAF,MEX,1810
+20,Mateo Chavez,Mexico,DEF,AZ Alkmaar,4.0,10,1,0,30,3.0,A,CONCACAF,MEX,1810
+9,Raúl Alonso Jimenez,Mexico,FWD,Fulham FC,3.0,127,1,0,30,3.0,A,CONCACAF,MEX,1810
+30,Teboho Mokoena,South Africa,MID,Mamelodi Sundowns FC,2.8,58,1,0,360,0.25,A,CAF,RSA,1620
+157,Ibrahim Mahmoud Abunada,Qatar,GK,Al Rayyan SC,0.4,7,1,0,270,0.333,B,AFC,QAT,1600
+149,Kerim Alajbegovic,Bosnia and Herzegovina,FWD,FC Red Bull Salzburg,22.0,11,1,0,270,0.333,B,UEFA,BIH,1645
+155,Jovo Lukic,Bosnia and Herzegovina,FWD,Universitatea Cluj,2.2,4,1,0,30,3.0,B,UEFA,BIH,1645
+111,Stephen Eustaquio,Canada,MID,LAFC,6.0,57,1,0,360,0.25,B,CONCACAF,CAN,1795
+128,Promise Oluwatobi Emmanuel David,Canada,FWD,Royale Union Saint-Gilloise,17.0,11,1,1,360,0.25,B,CONCACAF,CAN,1795
+129,Nathan-Dylan Saliba,Canada,MID,RSC Anderlecht,7.5,15,1,2,360,0.25,B,CONCACAF,CAN,1795
+38,Thapelo Maseko,South Africa,FWD,AEL Limassol,1.2,8,1,0,60,1.5,A,CAF,RSA,1620
+58,Inbeom Hwang,South Korea,MID,Feyenoord Rotterdam,7.0,74,1,1,270,0.333,A,AFC,KOR,1800
+70,Hyeongyu Oh,South Korea,FWD,Be ş ikta ş  JK,15.0,28,1,0,270,0.333,A,AFC,KOR,1800
+85,Ladislav Krejci,Czechia,DEF,Wolverhampton Wanderers FC,22.0,28,1,0,270,0.333,A,UEFA,CZE,1740
+96,Michal Sadilek,Czechia,MID,SK Slavia Praha,8.0,36,1,0,270,0.333,A,UEFA,CZE,1740
+192,Granit Xhaka,Switzerland,MID,Sunderland AFC,8.0,147,1,1,30,3.0,B,UEFA,SUI,1860
+450,Livano Shyron Liomar Comenencia,Curaçao,MID,FC Zürich,0.5,21,1,0,30,3.0,E,CONCACAF,CUW,1520
+476,Franck Yannick Kessie,Côte d'Ivoire,MID,Al Ahli FC,12.0,105,1,0,270,0.333,E,CAF,CIV,1750
+435,Leroy Aziz Sane,Germany,MID,Galatasaray SK,20.0,77,1,0,30,3.0,E,UEFA,GER,1970
+431,Nico Cédric Schlotterbeck,Germany,DEF,Borussia Dortmund,55.0,28,1,0,270,0.333,E,UEFA,GER,1970
+434,Nathaniel Christopher Brown,Germany,DEF,Eintracht Frankfurt,40.0,6,1,1,270,0.333,E,UEFA,GER,1970
+439,Felix Kalu Nmecha,Germany,MID,Borussia Dortmund,50.0,9,1,1,270,0.333,E,UEFA,GER,1970
+412,Kaan Ayhan,Türkiye,MID,Galatasaray SK,1.5,73,1,0,30,3.0,D,UEFA,TUR,1780
+372,Connor Isaac Metcalfe,Australia,MID,FC St. Pauli,1.5,37,1,0,270,0.333,D,AFC,AUS,1790
+526,Paul Jan-Paul Van Hecke,Netherlands,DEF,Brighton & Hove Albion FC,45.0,13,1,0,270,0.333,F,UEFA,NED,1980
+524,Virgil Van Dijk,Netherlands,DEF,Liverpool FC,15.0,93,1,0,30,3.0,F,UEFA,NED,1980
+514,Nilson David Angulo,Ecuador,FWD,Sunderland AFC,17.0,15,1,0,270,0.333,E,CONMEBOL,ECU,1870
+560,Junya Ito,Japan,MID,KRC Genk,3.0,70,1,0,30,3.0,F,AFC,JPN,1880
+559,Keito Nakamura,Japan,MID,Stade Reims,10.0,27,1,2,60,1.5,F,AFC,JPN,1880
+426,Jamal Musiala,Germany,MID,FC Bayern München,100.0,43,1,0,270,0.333,E,UEFA,GER,1970
+236,Achraf Hakimi,Morocco,DEF,Paris Saint-Germain,80.0,97,1,0,270,0.333,C,CAF,MAR,1920
+354,Damián Josue Bobadilla,Paraguay,MID,São Paulo FC,6.0,20,1,0,30,3.0,D,CONMEBOL,PAR,1725
+349,Mauricio Mauricio,Paraguay,MID,SE Palmeiras,15.0,4,1,0,270,0.333,D,CONMEBOL,PAR,1725
+381,Nestory Irankunda,Australia,FWD,Watford FC,8.0,16,1,0,270,0.333,D,AFC,AUS,1790
+361,Matias Galarza,Paraguay,MID,Atlanta United FC,3.0,15,1,0,30,3.0,D,CONMEBOL,PAR,1725
+385,Cameron Robert Burgess,Australia,DEF,Swansea City AFC,1.5,28,1,0,30,3.0,D,AFC,AUS,1790
+396,Orkun Kokcu,Türkiye,MID,Be ş ikta ş  JK,25.0,51,1,0,270,0.333,D,UEFA,TUR,1780
+398,Arda Guler,Türkiye,FWD,Real Madrid C. F.,90.0,31,1,0,270,0.333,D,UEFA,TUR,1780
+243,Soufiane Rahimi,Morocco,FWD,Al Ain FC,6.0,38,1,0,30,3.0,C,CAF,MAR,1920
+278,Wilson Isidor,Haiti,FWD,Sunderland AFC,18.0,5,1,0,270,0.333,C,CONCACAF,HAI,1530
+293,Mc,Scotland,MID,Aston Villa FC,4.0,87,1,0,270,0.333,C,UEFA,SCO,1720
+319,Giovanni Alejandro Reyna,USA,MID,Borussia Mönchengladbach,4.0,39,1,0,30,3.0,D,CONCACAF,USA,1850
+318,Auston Levi-Jesaiah Trusty,USA,DEF,Celtic FC,6.0,8,1,0,30,3.0,D,CONCACAF,USA,1850
+326,Sebastian Matthew Berhalter,USA,MID,Vancouver Whitecaps FC,8.0,14,1,1,270,0.333,D,CONCACAF,USA,1850
+328,Alexander Michael Freeman,USA,DEF,Villarreal CF,3.5,18,1,1,60,1.5,D,CONCACAF,USA,1850
+250,Gessime Ben Youssef Mustapha Yassine,Morocco,MID,RC Strasbourg,12.0,4,1,0,30,3.0,C,CAF,MAR,1920
+235,Yassine Bounou,Morocco,GK,Al Hilal SC,3.0,91,1,0,270,0.333,C,CAF,MAR,1920
+671,Saber Abdelmohsen Mahmoud,Egypt,MID,ZED FC,1.5,15,1,0,270,0.333,G,CAF,EGY,1730
+661,Mohamed Zaky Mostafa Zico,Egypt,MID,Pyramids FC,1.5,3,1,1,30,3.0,G,CAF,EGY,1730
+660,Hamed Mahrous Mohamed Salah,Egypt,FWD,Liverpool FC,22.0,117,1,2,270,0.333,G,CAF,EGY,1730
+658,Ashour Metwaly Emam,Egypt,MID,Al Ahly FC,2.0,30,1,0,270,0.333,G,CAF,EGY,1730
+657,Ahmed Ibrahim Trezeguet,Egypt,FWD,Al Ahly FC,4.5,96,1,0,30,3.0,G,CAF,EGY,1730
+653,Hany Gamal Mohamed Hany,Egypt,DEF,Al Ahly FC,1.5,44,1,1,270,0.333,G,CAF,EGY,1730
+646,Alexis Jesse Saelemaekers,Belgium,MID,AC Milan,20.0,24,1,0,270,0.333,G,UEFA,BEL,1950
+633,Romelu Lukaku,Belgium,FWD,SSC Napoli,6.0,127,1,0,60,1.5,G,UEFA,BEL,1950
+602,Omar Rekik,Tunisia,DEF,NK Maribor,0.6,7,1,0,30,3.0,F,CAF,TUN,1710
+631,Kevin De Bruyne,Belgium,MID,SSC Napoli,8.0,120,1,0,30,3.0,G,UEFA,BEL,1950
+615,Ellyes Joris Skhiri,Tunisia,MID,Eintracht Frankfurt,5.0,84,1,0,270,0.333,F,CAF,TUN,1710
+607,Hazem Mastouri,Tunisia,FWD,FC Dynamo Makhachkala,0.9,19,1,0,30,3.0,F,CAF,TUN,1710
+589,Viktor Einar Gyokeres,Sweden,FWD,Arsenal FC,65.0,34,1,1,270,0.333,F,UEFA,SWE,1815
+591,Mattias Olof Svanberg,Sweden,MID,VfL Wolfsburg,8.0,41,1,0,270,0.333,F,UEFA,SWE,1815
+557,Daizen Maeda,Japan,MID,Celtic FC,13.0,29,1,0,30,3.0,F,AFC,JPN,1880
+581,Alexander Isak,Sweden,FWD,Liverpool FC,85.0,59,1,3,270,0.333,F,UEFA,SWE,1815
+483,Amad Diallo,Côte d'Ivoire,FWD,Manchester United FC,45.0,20,1,0,270,0.333,E,CAF,CIV,1750
+513,Gonzalo Jordy Plata,Ecuador,FWD,CR Flamengo,9.0,51,1,0,270,0.333,E,CONMEBOL,ECU,1870
+844,Bradley Jean-Manuel Essolisa Barcola,France,FWD,Paris Saint-Germain,70.0,21,1,1,60,1.5,I,UEFA,FRA,2100
+784,Ali Abdulelah Alamri,Saudi Arabia,DEF,Al Nassr FC,1.4,45,1,0,270,0.333,H,AFC,KSA,1660
+780,Sandro Helio Varela,Cabo Verde,MID,Maccabi Tel-Aviv FC,1.2,21,1,0,270,0.333,H,CAF,CPV,1640
+743,Alejandro Baena,Spain,MID,Atlético De Madrid,40.0,17,1,0,270,0.333,H,UEFA,ESP,2120
+878,Ibrahim Mbaye,Senegal,FWD,Paris Saint-Germain,30.0,12,1,0,30,3.0,I,CAF,SEN,1840
+852,Désiré Nonka-Maho Doue,France,FWD,Paris Saint-Germain,120.0,8,1,0,30,3.0,I,UEFA,FRA,2100
+914,Leo Skiri Ostigard,Norway,DEF,Genoa CFC,13.0,39,1,0,270,0.333,I,UEFA,NOR,1775
+879,Habib Mbacke Diarra,Senegal,MID,Sunderland AFC,35.0,22,1,0,270,0.333,I,CAF,SEN,1840
+785,Mohammed Hassan Altambakti,Saudi Arabia,DEF,Al Hilal SC,1.8,55,1,0,270,0.333,H,AFC,KSA,1660
+820,Agustin Canobbio,Uruguay,MID,Fluminense FC,8.0,15,1,0,30,3.0,H,CONMEBOL,URU,1960
+760,Lenini Kevin Pina,Cabo Verde,MID,FC Krasnodar,5.0,32,1,0,270,0.333,H,CAF,CPV,1640
+747,Lamine Yamal Yamal,Spain,FWD,FC Barcelona,200.0,26,1,0,270,0.333,H,UEFA,ESP,2120
+718,Finn Surman,New Zealand,DEF,Portland Timbers,1.8,20,1,0,270,0.333,G,OFC,NZL,1510
+684,Mohammad Mohebbi,IR Iran,MID,FC Rostov,2.5,38,1,0,270,0.333,G,AFC,IRN,1820
+971,Amine Ferid Gouiri,Algeria,FWD,Olympique Marseille,28.0,24,1,0,270,0.333,J,CAF,ALG,1760
+958,Lautaro Javier Martinez,Argentina,FWD,FC Internazionale Milano,85.0,78,1,0,270,0.333,J,CONMEBOL,ARG,2150
+947,Giovani Lo Celso,Argentina,MID,Real Betis,8.0,67,1,0,30,3.0,J,CONMEBOL,ARG,2150
+929,Thelonious Gerard Aasgaard,Norway,MID,Rangers FC,2.8,8,1,0,30,3.0,I,UEFA,NOR,1775
+926,Marcus Holmgren Holmgren Pedersen,Norway,DEF,Torino FC,3.5,32,1,0,30,3.0,I,UEFA,NOR,1775
+871,Iliman Cheikh Baroy Ndiaye,Senegal,FWD,Everton FC,55.0,42,1,2,270,0.333,I,CAF,SEN,1840
+1002,Saša Kalajdzic,Austria,FWD,LASK Linz,4.0,23,1,0,270,0.333,J,UEFA,AUT,1830
+974,Ahmed Nadhir Benbouali,Algeria,FWD,Györi ETO FC,0.6,4,1,0,30,3.0,J,CAF,ALG,1760
+1023,Iyad Ali Ali Olwan,Jordan,FWD,Al Sailiya SC,0.8,67,1,0,30,3.0,J,AFC,JOR,1610
+1019,Mousa Mahmoud Yazan Alarab,Jordan,DEF,FC Seoul,1.0,81,1,0,270,0.333,J,AFC,JOR,1610
+1035,Mahmoud Ahmed Nizar Alrashdan,Jordan,MID,Qatar SC,0.6,48,1,0,270,0.333,J,AFC,JOR,1610
+1024,Mohammad Mousa Mousa Altamari,Jordan,FWD,Stade Rennais FC,10.0,93,1,1,270,0.333,J,AFC,JOR,1610
+1055,Pedro Joao Neves,Portugal,MID,Paris Saint-Germain,140.0,23,1,0,270,0.333,K,UEFA,POR,2010
+1006,Romano Schmid,Austria,MID,SV Werder Bremen,15.0,35,1,0,30,3.0,J,UEFA,AUT,1830
+979,Rafik Belghali,Algeria,DEF,Hellas Verona FC,7.0,14,1,0,270,0.333,J,CAF,ALG,1760
+997,Marcel Sabitzer,Austria,MID,Borussia Dortmund,6.0,99,1,0,30,3.0,J,UEFA,AUT,1830
+1085,Mayele Fiston Mayele,Congo DR,FWD,Pyramids FC,1.8,36,1,0,30,3.0,K,CAF,COD,1670
+1065,Alexandre Nuno,Portugal,DEF,Paris Saint-Germain,80.0,45,1,0,270,0.333,K,UEFA,POR,2010
+1057,Alexandre Rafael Leao,Portugal,FWD,AC Milan,50.0,45,1,0,270,0.333,K,UEFA,POR,2010
+1094,Abdukodir Khusanov,Uzbekistan,DEF,Manchester City FC,50.0,28,1,0,270,0.333,K,AFC,UZB,1650
+1114,Abbosbek Fayzullaev,Uzbekistan,MID,Ba ş ak ş ehir FK,7.0,33,1,0,270,0.333,K,AFC,UZB,1650
+1106,Eldor Shomurodov,Uzbekistan,FWD,Ba ş ak ş ehir FK,7.0,94,1,0,270,0.333,K,AFC,UZB,1650
+1139,Jaminton Leandro Campaz,Colombia,FWD,CA Rosario Central,5.5,11,1,0,30,3.0,K,CONMEBOL,COL,1990
+1125,Luis Fernando Diaz,Colombia,FWD,FC Bayern München,70.0,75,1,1,270,0.333,K,CONMEBOL,COL,1990
+1155,Marcus Rashford,England,FWD,FC Barcelona,40.0,73,1,0,30,3.0,L,UEFA,ENG,2050
+1181,Ante Budimir,Croatia,FWD,CA Osasuna,2.8,38,1,0,30,3.0,L,UEFA,CRO,1940
+1183,Nikola Vlasic,Croatia,MID,Torino FC,10.0,64,1,0,270,0.333,L,UEFA,CRO,1940
+1186,Martin Baturina,Croatia,MID,Como,30.0,20,1,0,270,0.333,L,UEFA,CRO,1940
+1187,Petar Sucic,Croatia,MID,FC Internazionale Milano,40.0,18,1,1,270,0.333,L,UEFA,CRO,1940
+1196,Petar Musa,Croatia,FWD,FC Dallas,12.0,12,1,0,270,0.333,L,UEFA,CRO,1940
+1199,Caleb Marfo Yirenkyi,Ghana,MID,FC Nordsjælland,10.0,12,1,0,270,0.333,L,CAF,GHA,1690
+1219,Derrick Luckassen,Ghana,DEF,Pafos FC,1.2,1,1,0,30,3.0,L,CAF,GHA,1690

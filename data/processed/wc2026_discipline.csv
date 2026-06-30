@@ -1,0 +1,49 @@
+team_id,team_name,confederation,yellow_cards,red_cards,matches_played,avg_yc_per_game,discipline_risk,suspension_risk
+15,Australia,AFC,5,0,4,1.25,High,2.5
+5,Canada,CONCACAF,3,0,5,0.6,Medium,1.5
+11,Haiti,CONCACAF,3,0,3,1.0,Medium,1.5
+13,USA,CONCACAF,3,0,4,0.75,Medium,1.5
+40,Jordan,AFC,3,0,3,1.0,Medium,1.5
+42,Congo DR,CAF,3,0,4,0.75,Medium,1.5
+48,Panama,CONCACAF,3,0,3,1.0,Medium,1.5
+31,Saudi Arabia,AFC,3,0,3,1.0,Medium,1.5
+43,Uzbekistan,AFC,2,0,3,0.67,Medium,1.0
+45,England,UEFA,2,0,4,0.5,Medium,1.0
+35,Iraq,AFC,2,1,3,0.67,High,4.0
+34,Senegal,CAF,2,0,4,0.5,Medium,1.0
+2,South Africa,CAF,2,2,4,0.5,High,7.0
+1,Mexico,CONCACAF,2,1,4,0.5,High,4.0
+47,Ghana,CAF,2,0,4,0.5,Medium,1.0
+4,Czechia,UEFA,1,0,3,0.33,Low,0.5
+46,Croatia,UEFA,1,0,4,0.25,Low,0.5
+18,Curaçao,CONCACAF,1,0,3,0.33,Low,0.5
+25,Belgium,UEFA,1,1,4,0.25,High,3.5
+14,Paraguay,CONMEBOL,1,1,4,0.25,High,3.5
+9,Brazil,CONMEBOL,1,0,4,0.25,Low,0.5
+6,Bosnia and Herzegovina,UEFA,1,1,4,0.25,High,3.5
+7,Qatar,AFC,1,2,3,0.33,High,6.5
+8,Switzerland,UEFA,1,0,4,0.25,Low,0.5
+3,South Korea,AFC,1,0,3,0.33,Low,0.5
+39,Austria,UEFA,1,0,4,0.25,Low,0.5
+44,Colombia,CONMEBOL,1,0,4,0.25,Low,0.5
+30,Cabo Verde,CAF,1,0,4,0.25,Low,0.5
+36,Norway,UEFA,1,0,4,0.25,Low,0.5
+33,France,UEFA,1,0,4,0.25,Low,0.5
+10,Morocco,CAF,0,0,4,0.0,Low,0.0
+12,Scotland,UEFA,0,0,3,0.0,Low,0.0
+16,Türkiye,UEFA,0,0,3,0.0,Low,0.0
+29,Spain,UEFA,0,0,4,0.0,Low,0.0
+27,IR Iran,AFC,0,0,3,0.0,Low,0.0
+28,New Zealand,OFC,0,0,3,0.0,Low,0.0
+32,Uruguay,CONMEBOL,0,0,3,0.0,Low,0.0
+22,Japan,AFC,0,0,4,0.0,Low,0.0
+23,Sweden,UEFA,0,0,4,0.0,Low,0.0
+24,Tunisia,CAF,0,0,3,0.0,Low,0.0
+20,Ecuador,CONMEBOL,0,0,4,0.0,Low,0.0
+19,Côte d'Ivoire,CAF,0,0,4,0.0,Low,0.0
+17,Germany,UEFA,0,0,4,0.0,Low,0.0
+21,Netherlands,UEFA,0,0,4,0.0,Low,0.0
+26,Egypt,CAF,0,0,4,0.0,Low,0.0
+38,Algeria,CAF,0,0,4,0.0,Low,0.0
+37,Argentina,CONMEBOL,0,0,4,0.0,Low,0.0
+41,Portugal,UEFA,0,0,4,0.0,Low,0.0
